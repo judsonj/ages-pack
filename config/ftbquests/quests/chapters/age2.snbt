@@ -1,0 +1,108 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "age2"
+	group: ""
+	icon: { id: "kubejs:bronze_ingot" }
+	id: "0B5F41B0FBA22540"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54798A623EC1ECFE"
+			x: 0d
+			y: -2.5d
+			dependencies: ["7D0BC39519E50BC5"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "54F47560FFB60BC6", type: "item", item: { count: 1, id: "minecraft:raw_copper" }, count: 16L }]
+			rewards: [{ id: "561128894E32D96F", type: "xp_levels", xp_levels: 2 }]
+		}
+		{
+			id: "20DD4016D9C862DD"
+			x: 0d
+			y: 2.5d
+			dependencies: ["7D0BC39519E50BC5"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "499428FBE0756CC7", type: "item", item: { count: 1, id: "kubejs:raw_tin" }, count: 8L }]
+			rewards: [{ id: "69AA51758416711B", type: "item", item: { count: 1, id: "minecraft:torch" }, count: 8 }]
+		}
+		{
+			id: "5A4A0B7DF4784B7E"
+			x: 2.5d
+			y: 0d
+			dependencies: ["54798A623EC1ECFE" "20DD4016D9C862DD"]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{ id: "04E131F50E805609", type: "item", item: { count: 1, id: "kubejs:bronze_blend" } }]
+			rewards: [{ id: "15A78398C9CF8445", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "6AA75FFE25E32CA4"
+			x: 5d
+			y: -2.5d
+			dependencies: ["5A4A0B7DF4784B7E"]
+			tasks: [{ id: "0BF89258CC838743", type: "item", item: { count: 1, id: "kubejs:bronze_pickaxe" } } { id: "03A3B32FD8367634", type: "item", item: { count: 1, id: "kubejs:bronze_axe" } } { id: "4A71D48A54331413", type: "item", item: { count: 1, id: "kubejs:bronze_sword" } }]
+			rewards: [{ id: "0CA8CFBCC4B91521", type: "random", table_id: 8760363617949925918L }]
+		}
+		{
+			id: "004FE566FC037A7A"
+			x: 7d
+			y: -2.5d
+			dependencies: ["6AA75FFE25E32CA4"]
+			tasks: [{ id: "2FC933282705E3B4", type: "item", item: { count: 1, id: "kubejs:bronze_helmet" } } { id: "0E6F72F53A0B4EDC", type: "item", item: { count: 1, id: "kubejs:bronze_chestplate" } } { id: "48C6CB22EB730FE3", type: "item", item: { count: 1, id: "kubejs:bronze_leggings" } } { id: "0ACB4C709FAF9DB2", type: "item", item: { count: 1, id: "kubejs:bronze_boots" } }]
+			rewards: [{ id: "315D9C8AC432638A", type: "item", item: { count: 1, id: "minecraft:shield" } }]
+		}
+		{
+			id: "06DE7FF3D4FB67D4"
+			x: 0d
+			y: 0.0d
+			dependencies: ["7D0BC39519E50BC5"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "0CD3E669FFA7CB53", type: "item", item: { count: 1, id: "minecraft:wheat" }, count: 64L }]
+			rewards: [{ id: "1F9BB0F949E922B2", type: "item", item: { count: 1, id: "farmersdelight:rich_soil" }, count: 4 }]
+		}
+		{
+			id: "6D316507F4205439"
+			x: 5d
+			y: 0.0d
+			dependencies: ["06DE7FF3D4FB67D4"]
+			tasks: [{ id: "18BBD841487F1FC1", type: "item", item: { count: 1, id: "farmersdelight:mixed_salad" } } { id: "7C423424738B786A", type: "item", item: { count: 1, id: "farmersdelight:pumpkin_soup" } } { id: "5682B8C1A0BFAA69", type: "item", item: { count: 1, id: "farmersdelight:chicken_soup" } } { id: "13D3CA56CDA9233A", type: "item", item: { count: 1, id: "farmersdelight:fish_stew" } } { id: "1C3F1CB1708ECB65", type: "item", item: { count: 1, id: "farmersdelight:fruit_salad" } }]
+			rewards: [{ id: "14F496EE5C1D2C8B", type: "random", table_id: 8760363617949925918L }]
+		}
+		{
+			id: "5188F1E9630643A3"
+			x: 2.5d
+			y: 3.0d
+			dependencies: ["20DD4016D9C862DD"]
+			tasks: [{ id: "1986BF6986C9CB14", type: "structure", structure: "#bettermineshafts:better_mineshafts" }]
+			rewards: [{ id: "24CFF95C3DBB13BF", type: "item", item: { count: 1, id: "minecraft:rail" }, count: 32 }]
+		}
+		{
+			id: "0A2241432084E65F"
+			x: 5d
+			y: 2.5d
+			dependencies: ["5188F1E9630643A3"]
+			tasks: [{ id: "3B2165132EF1BB56", type: "item", item: { count: 1, id: "minecraft:spyglass" } } { id: "44CDE7FE9124908D", type: "checkmark" }]
+			rewards: [{ id: "4EEA70CF9A95F218", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "1CDACF83DEEB34E8"
+			x: 6d
+			y: 0.5d
+			dependencies: ["6AA75FFE25E32CA4" "5188F1E9630643A3"]
+			shape: "diamond"
+			tasks: [{ id: "7B970555CD046FA5", type: "item", item: { count: 1, id: "minecraft:raw_iron" }, count: 16L }]
+			rewards: [{ id: "77CBDE2DD3166E68", type: "random", table_id: 5557977682739783447L }]
+		}
+		{
+			id: "0B9F12FC3A0D76DB"
+			x: 10d
+			y: 0d
+			dependencies: ["004FE566FC037A7A" "6D316507F4205439" "1CDACF83DEEB34E8" "0A2241432084E65F"]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{ id: "53F9D6BD881D074D", type: "checkmark" }]
+			rewards: [{ id: "3676B7BF5B5728B0", type: "item", item: { count: 1, id: "kubejs:seal_of_iron" } } { id: "639C389821EC1834", type: "item", item: { count: 1, id: "sophisticatedbackpacks:copper_backpack" } } { id: "3D511A04AD93ADB3", type: "item", item: { count: 1, id: "waystones:waystone" } }]
+		}
+	]
+}

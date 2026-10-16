@@ -1,0 +1,10 @@
+version:3955
+renderDistance:10
+simulationDistance:8
+graphicsMode:0
+particles:1
+mipmapLevels:2
+entityShadows:false
+maxFps:120
+enableVsync:false
+guiScale:0

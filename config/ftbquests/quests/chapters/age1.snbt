@@ -1,0 +1,130 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "age1"
+	group: ""
+	icon: { id: "minecraft:stone_pickaxe" }
+	id: "4F0AEEF1FA334AB8"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "667489F27142BFE7"
+			x: 0d
+			y: -2.5d
+			dependencies: ["405BCA1705D5D5C2"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "2968525B18C067A5", type: "advancement", advancement: "minecraft:story/upgrade_tools", criterion: "" }]
+			rewards: [{ id: "078BCC919470E6CA", type: "xp_levels", xp_levels: 2 }]
+		}
+		{
+			id: "79E03438DAB89B06"
+			x: 2d
+			y: -2.5d
+			dependencies: ["667489F27142BFE7"]
+			tasks: [{ id: "6A392D573E89423D", type: "item", item: { count: 1, id: "minecraft:furnace" } }]
+			rewards: [{ id: "4C432A8F1FB3E2E6", type: "item", item: { count: 1, id: "minecraft:coal" }, count: 8 }]
+		}
+		{
+			id: "4731E3D35F478FA4"
+			x: 4d
+			y: -2.5d
+			dependencies: ["79E03438DAB89B06"]
+			tasks: [{ id: "103CB556D0EF3F21", type: "item", item: { count: 1, id: "minecraft:charcoal" }, count: 16L }]
+			rewards: [{ id: "0BAEAA6C5695B0B9", type: "random", table_id: 8760363617949925918L }]
+		}
+		{
+			id: "2965852F4C828EE1"
+			x: 6d
+			y: -2.5d
+			dependencies: ["4731E3D35F478FA4"]
+			tasks: [{ id: "5EB5D591FC40C8E1", type: "item", item: { count: 1, id: "minecraft:stone_sword" } } { id: "0A4C2F80C42105C0", type: "item", item: { count: 1, id: "minecraft:stone_axe" } } { id: "617B066215E69520", type: "item", item: { count: 1, id: "minecraft:stone_shovel" } } { id: "6C71DAE90DB90904", type: "item", item: { count: 1, id: "minecraft:stone_hoe" } }]
+			rewards: [{ id: "6EEFC397D081AD58", type: "xp_levels", xp_levels: 3 }]
+		}
+		{
+			id: "2A8B308A7A3C8095"
+			x: 0d
+			y: 0.0d
+			dependencies: ["405BCA1705D5D5C2"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "65C2EDDFA5E51A79", type: "advancement", advancement: "minecraft:husbandry/plant_seed", criterion: "" }]
+			rewards: [{ id: "0D5D4601DC1ACB07", type: "item", item: { count: 1, id: "minecraft:wheat_seeds" }, count: 8 }]
+		}
+		{
+			id: "442BFAE73E693CE1"
+			x: 2d
+			y: 0.0d
+			dependencies: ["2A8B308A7A3C8095"]
+			tasks: [{ id: "7601A6DDB12E2C86", type: "item", item: { count: 1, id: "farmersdelight:cooking_pot" } }]
+			rewards: [{ id: "6F4835D4E4A61EF4", type: "item", item: { count: 1, id: "farmersdelight:flint_knife" } }]
+		}
+		{
+			id: "493654FA83E10957"
+			x: 4d
+			y: 0.0d
+			dependencies: ["442BFAE73E693CE1"]
+			tasks: [{ id: "28CFCCCA7DA1F913", type: "item", item: { count: 1, id: "farmersdelight:vegetable_soup" } }]
+			rewards: [{ id: "29176A6667FB245D", type: "xp_levels", xp_levels: 2 }]
+		}
+		{
+			id: "20D3A66FB1E630A6"
+			x: 6d
+			y: 0.0d
+			dependencies: ["493654FA83E10957"]
+			tasks: [{ id: "6F0D442183A11906", type: "item", item: { count: 1, id: "minecraft:white_bed" } } { id: "2475DA9A80A41796", type: "item", item: { count: 1, id: "minecraft:chest" } }]
+			rewards: [{ id: "037583DDEA5AE65B", type: "item", item: { count: 1, id: "minecraft:chest" }, count: 2 }]
+		}
+		{
+			id: "29AD346733AC548F"
+			x: 0d
+			y: 2.5d
+			dependencies: ["405BCA1705D5D5C2"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "2CA6F652BBA2ED54", type: "structure", structure: "#minecraft:village" }]
+			rewards: [{ id: "6255DD0F8466CBDB", type: "item", item: { count: 1, id: "minecraft:emerald" }, count: 2 }]
+		}
+		{
+			id: "186EB01559314EC0"
+			x: 2d
+			y: 2.5d
+			dependencies: ["29AD346733AC548F"]
+			tasks: [{ id: "4F755F20E4CB92AE", type: "advancement", advancement: "minecraft:adventure/trade", criterion: "" }]
+			rewards: [{ id: "5DD44A271525FA0A", type: "xp_levels", xp_levels: 3 }]
+		}
+		{
+			id: "4CF6DE075CF55C52"
+			x: 4d
+			y: 2.5d
+			dependencies: ["186EB01559314EC0"]
+			tasks: [{ id: "2B0ECB6663CAC59E", type: "item", item: { count: 1, id: "minecraft:map" } }]
+			rewards: [{ id: "6344C4C99BDA6AC8", type: "item", item: { count: 1, id: "minecraft:compass" } }]
+		}
+		{
+			id: "7573161DD346AAFC"
+			x: 6d
+			y: 2.5d
+			dependencies: ["4CF6DE075CF55C52"]
+			tasks: [{ id: "7128441F4879592D", type: "checkmark" }]
+			rewards: [{ id: "3E8F7D5A0C1A2925", type: "item", item: { count: 1, id: "minecraft:torch" }, count: 16 }]
+		}
+		{
+			id: "786675CE7781EE03"
+			x: 3d
+			y: -1.25d
+			dependencies: ["79E03438DAB89B06" "442BFAE73E693CE1"]
+			shape: "diamond"
+			tasks: [{ id: "7FC094A9D17DE04C", type: "item", item: { count: 1, id: "farmersdelight:beef_stew" } }]
+			rewards: [{ id: "0CF19D7BD3B9A5DA", type: "item", item: { count: 1, id: "sophisticatedbackpacks:backpack" } }]
+		}
+		{
+			id: "7D0BC39519E50BC5"
+			x: 9d
+			y: 0d
+			dependencies: ["2965852F4C828EE1" "786675CE7781EE03" "7573161DD346AAFC" "20D3A66FB1E630A6"]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{ id: "2C8F6516450F60AD", type: "checkmark" }]
+			rewards: [{ id: "354A809A65C2CF06", type: "item", item: { count: 1, id: "kubejs:seal_of_bronze" } } { id: "662B3003E046FB6F", type: "random", table_id: 5557977682739783447L } { id: "4F6F25409819CA44", type: "item", item: { count: 1, id: "waystones:warp_dust" }, count: 3 }]
+		}
+	]
+}

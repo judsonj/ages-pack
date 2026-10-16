@@ -1,0 +1,55 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trophy"
+	group: ""
+	icon: { id: "minecraft:gold_block" }
+	id: "3F24E0E73C81246E"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "76717FB083F050C7"
+			x: 0d
+			y: 0d
+			tasks: [{ id: "2F5ACE707C8EDA45", type: "advancement", advancement: "minecraft:story/lava_bucket", criterion: "" }]
+			rewards: [{ id: "12606A096FF833CC", type: "xp_levels", xp_levels: 2 }]
+		}
+		{
+			id: "793BB15FDAF9AA28"
+			x: 2d
+			y: 0d
+			tasks: [{ id: "41DA2F2E92631F5D", type: "advancement", advancement: "minecraft:husbandry/tame_an_animal", criterion: "" }]
+			rewards: [{ id: "3C52319C7AF80EFE", type: "item", item: { count: 1, id: "minecraft:bone" }, count: 8 }]
+		}
+		{
+			id: "555192FEE22A6F0D"
+			x: 4d
+			y: 0d
+			tasks: [{ id: "760F6E3A31BC371D", type: "advancement", advancement: "minecraft:adventure/sleep_in_bed", criterion: "" }]
+			rewards: [{ id: "44530D91F926A0AE", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "48E4036CCB2D63AA"
+			x: 0d
+			y: 2d
+			tasks: [{ id: "1571986A016A7ADC", type: "advancement", advancement: "minecraft:story/mine_diamond", criterion: "" }]
+			rewards: [{ id: "2D0045C4DA7FB601", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "4819DE939CDAF827"
+			x: 2d
+			y: 2d
+			tasks: [{ id: "57195EC4D9A4A209", type: "advancement", advancement: "minecraft:husbandry/fishy_business", criterion: "" }]
+			rewards: [{ id: "487FDB0A45DED1FF", type: "item", item: { count: 1, id: "farmersdelight:fish_stew" }, count: 4 }]
+		}
+		{
+			id: "12C27A6318C45E1B"
+			x: 4d
+			y: 2d
+			dependencies: ["6C3F17378A15C05D"]
+			tasks: [{ id: "695684EA2F276729", type: "checkmark" }]
+			rewards: [{ id: "1E49829C29E0384E", type: "random", table_id: 5557977682739783447L }]
+		}
+	]
+}

@@ -1,0 +1,91 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "age7"
+	group: ""
+	icon: { id: "createaddition:electric_motor" }
+	id: "7331123BACE2EE87"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "10447A5A0013D0B6"
+			x: 0d
+			y: -2.5d
+			dependencies: ["5FDFAE5FD4787F27"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "3E0ACD7FC7D91AD0", type: "item", item: { count: 1, id: "createaddition:rolling_mill" } }]
+			rewards: [{ id: "3EE146909E176770", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "561B98AE37BEEED9"
+			x: 2.5d
+			y: -2.5d
+			dependencies: ["10447A5A0013D0B6"]
+			tasks: [{ id: "2932681F94CAC9FB", type: "item", item: { count: 1, id: "createaddition:alternator" } }]
+			rewards: [{ id: "77A65A12DAB504E7", type: "random", table_id: 5557977682739783447L }]
+		}
+		{
+			id: "18BC7A20FF62992C"
+			x: 5d
+			y: -2.5d
+			dependencies: ["561B98AE37BEEED9"]
+			tasks: [{ id: "022DD1A55639A194", type: "item", item: { count: 1, id: "createaddition:electric_motor" } }]
+			rewards: [{ id: "0413D3A0B4D9FC44", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "4DE1B176406848BA"
+			x: 5d
+			y: -4.0d
+			dependencies: ["561B98AE37BEEED9"]
+			tasks: [{ id: "1B1154577211C493", type: "item", item: { count: 1, id: "createaddition:modular_accumulator" }, count: 4L } { id: "763B3CC28E54B0AA", type: "item", item: { count: 1, id: "createaddition:connector" }, count: 8L } { id: "73570C54A21FFCF6", type: "item", item: { count: 1, id: "createaddition:copper_spool" } }]
+			rewards: [{ id: "618B0797BD1CC71D", type: "random", table_id: 5557977682739783447L }]
+		}
+		{
+			id: "651F9513B9566C93"
+			x: 0d
+			y: 0.0d
+			dependencies: ["5FDFAE5FD4787F27"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "3A94F4AD3BB0BDAE", type: "item", item: { count: 1, id: "create_enchantment_industry:mechanical_grindstone" } } { id: "3F43E58B4BEB1B1A", type: "item", item: { count: 1, id: "create_enchantment_industry:experience_bucket" } }]
+			rewards: [{ id: "03736F8FDA5A1CD9", type: "xp_levels", xp_levels: 15 }]
+		}
+		{
+			id: "47EB7D91F0B8A5EB"
+			x: 3d
+			y: 0.0d
+			dependencies: ["651F9513B9566C93"]
+			tasks: [{ id: "4100897A445E0ACB", type: "item", item: { count: 1, id: "create_enchantment_industry:blaze_enchanter" } }]
+			rewards: [{ id: "65EDE20B60B93B59", type: "random", table_id: 2893836879149437615L }]
+		}
+		{
+			id: "2BCC6D221C80A048"
+			x: 0d
+			y: 2.5d
+			dependencies: ["5FDFAE5FD4787F27"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "702267E7B15A0D6B", type: "checkmark" }]
+			rewards: [{ id: "234D30750EFBAB8C", type: "random", table_id: 2893836879149437615L }]
+		}
+		{
+			id: "1073D9137EF6DA74"
+			x: 7.5d
+			y: -1.25d
+			dependencies: ["18BC7A20FF62992C" "1CE4BD284B220D34"]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{ id: "6E7A0118DC332D0E", type: "checkmark" }]
+			rewards: [{ id: "0257A09721B6D2C7", type: "random", table_id: 2893836879149437615L }]
+		}
+		{
+			id: "4FDF0831E3DABCFB"
+			x: 11d
+			y: 0d
+			dependencies: ["1073D9137EF6DA74" "47EB7D91F0B8A5EB" "2BCC6D221C80A048" "4DE1B176406848BA"]
+			shape: "heart"
+			size: 3.0d
+			tasks: [{ id: "5C8946AA79228A39", type: "checkmark" }]
+			rewards: [{ id: "216AE91814E9B694", type: "item", item: { count: 1, id: "kubejs:wonder_trophy" } } { id: "1E80A1815E1DA6D3", type: "item", item: { count: 1, id: "minecraft:firework_rocket" }, count: 16 } { id: "21595D40E158A549", type: "random", table_id: 2893836879149437615L } { id: "7EA5FBDFFB3B7234", type: "xp_levels", xp_levels: 50 }]
+		}
+	]
+}

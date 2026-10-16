@@ -1,0 +1,115 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "age6"
+	group: ""
+	icon: { id: "create:railway_casing" }
+	id: "794DA6D6073D6379"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "076A5AF7A2BD903F"
+			x: 0d
+			y: -2.5d
+			dependencies: ["13EDA76AF227D376"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "18278D48CA6690F3", type: "item", item: { count: 1, id: "tfmg:coke_oven" } }]
+			rewards: [{ id: "45E34ED041819AEC", type: "item", item: { count: 1, id: "minecraft:coal" }, count: 32 }]
+		}
+		{
+			id: "6A7672267F4308B3"
+			x: 2.5d
+			y: -2.5d
+			dependencies: ["076A5AF7A2BD903F"]
+			tasks: [{ id: "22615618BFD2A625", type: "item", item: { count: 1, id: "tfmg:blast_furnace_output" } }]
+			rewards: [{ id: "65EC369AE7186266", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "61B016C33B467AE6"
+			x: 5d
+			y: -2.5d
+			dependencies: ["6A7672267F4308B3"]
+			tasks: [{ id: "224AE95CCB687C02", type: "item", item: { count: 1, id: "tfmg:steel_ingot" }, count: 16L }]
+			rewards: [{ id: "0FA0F3D9AB53A1A3", type: "random", table_id: 5557977682739783447L }]
+		}
+		{
+			id: "4A2044BE20F7F8EB"
+			x: 0d
+			y: 0.0d
+			dependencies: ["13EDA76AF227D376"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "3611AC39E0E8C471", type: "item", item: { count: 1, id: "tfmg:pumpjack_base" } }]
+			rewards: [{ id: "7DBD075E38DE89A6", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "658750B710B53FA0"
+			x: 2.5d
+			y: 0.0d
+			dependencies: ["4A2044BE20F7F8EB"]
+			tasks: [{ id: "34B63BA118422ADF", type: "item", item: { count: 1, id: "tfmg:steel_distillation_controller" } }]
+			rewards: [{ id: "55E7622DC0A40B75", type: "random", table_id: 8760363617949925918L }]
+		}
+		{
+			id: "1CE4BD284B220D34"
+			x: 5d
+			y: -1.25d
+			dependencies: ["658750B710B53FA0" "61B016C33B467AE6"]
+			shape: "diamond"
+			tasks: [{ id: "32B19E82E9738D6D", type: "item", item: { count: 1, id: "tfmg:regular_engine" } }]
+			rewards: [{ id: "76100745C3B73AB7", type: "random", table_id: 5557977682739783447L }]
+		}
+		{
+			id: "17417239150B9BF0"
+			x: 0d
+			y: 2.5d
+			dependencies: ["13EDA76AF227D376"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "4A8846191D1A2388", type: "item", item: { count: 1, id: "create:track" }, count: 32L }]
+			rewards: [{ id: "1152385319194687", type: "xp_levels", xp_levels: 3 }]
+		}
+		{
+			id: "68BC051601868010"
+			x: 2.5d
+			y: 2.5d
+			dependencies: ["17417239150B9BF0"]
+			tasks: [{ id: "5E020867A0F76F94", type: "item", item: { count: 1, id: "create:track_station" } } { id: "3E27448070BBCDB9", type: "item", item: { count: 1, id: "create:controls" } } { id: "6054C217ADE24B35", type: "item", item: { count: 1, id: "create:railway_casing" }, count: 4L }]
+			rewards: [{ id: "37D77232825BFC3A", type: "random", table_id: 8760363617949925918L }]
+		}
+		{
+			id: "6C3F17378A15C05D"
+			x: 5d
+			y: 2.5d
+			dependencies: ["68BC051601868010"]
+			tasks: [{ id: "0ED89277256EFA49", type: "checkmark" }]
+			rewards: [{ id: "225211866D4BA1AF", type: "random", table_id: 5557977682739783447L }]
+		}
+		{
+			id: "20BC1DE9290ABEE6"
+			x: 7.5d
+			y: 2.5d
+			dependencies: ["6C3F17378A15C05D"]
+			tasks: [{ id: "67AB2F829C7459EA", type: "item", item: { count: 1, id: "create:schedule" } }]
+			rewards: [{ id: "5C41EBB345630ECE", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "04A2B047EB8744CF"
+			x: 8d
+			y: -0.5d
+			dependencies: ["61B016C33B467AE6" "20BC1DE9290ABEE6"]
+			shape: "diamond"
+			tasks: [{ id: "7496B434606A3864", type: "checkmark" }]
+			rewards: [{ id: "2DE08A086BE52717", type: "random", table_id: 2893836879149437615L }]
+		}
+		{
+			id: "5FDFAE5FD4787F27"
+			x: 11d
+			y: 0d
+			dependencies: ["1CE4BD284B220D34" "04A2B047EB8744CF"]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{ id: "274F3CC590231F1C", type: "checkmark" }]
+			rewards: [{ id: "65D1A01287EF5DCD", type: "item", item: { count: 1, id: "kubejs:seal_of_the_spark" } } { id: "555A0E34FECD0F10", type: "item", item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" } } { id: "4632677A7191F902", type: "item", item: { count: 1, id: "tfmg:steel_ingot" }, count: 64 }]
+		}
+	]
+}

@@ -1,0 +1,115 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "age3"
+	group: ""
+	icon: { id: "minecraft:iron_pickaxe" }
+	id: "10E4FCEE9BFA12AD"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "475CF7C7F6E822F5"
+			x: 0d
+			y: -2.5d
+			dependencies: ["0B9F12FC3A0D76DB"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "5B21FE564E751699", type: "advancement", advancement: "minecraft:story/obtain_armor", criterion: "" }]
+			rewards: [{ id: "4022FDB26322FED4", type: "xp_levels", xp_levels: 3 }]
+		}
+		{
+			id: "411A64270A0EDEB0"
+			x: 2d
+			y: -2.5d
+			dependencies: ["475CF7C7F6E822F5"]
+			tasks: [{ id: "11FC1C77912B06A6", type: "item", item: { count: 1, id: "minecraft:anvil" } }]
+			rewards: [{ id: "793CCBD762C2B468", type: "item", item: { count: 1, id: "minecraft:iron_ingot" }, count: 4 }]
+		}
+		{
+			id: "583701BAC331E8D3"
+			x: 2d
+			y: -4.0d
+			dependencies: ["475CF7C7F6E822F5"]
+			optional: true
+			tasks: [{ id: "55CFE9411F5822BD", type: "item", item: { count: 1, id: "minecraft:shield" } }]
+			rewards: [{ id: "24AB371AB91EC307", type: "xp_levels", xp_levels: 2 }]
+		}
+		{
+			id: "6F54D8ED8A8196FA"
+			x: 4d
+			y: -2.5d
+			dependencies: ["411A64270A0EDEB0"]
+			tasks: [{ id: "573290F9557EA335", type: "item", item: { count: 1, id: "minecraft:blast_furnace" } }]
+			rewards: [{ id: "3CF348C6CF06BF2D", type: "item", item: { count: 1, id: "minecraft:coal" }, count: 16 }]
+		}
+		{
+			id: "57C64F2A0AE8C195"
+			x: 0d
+			y: 0.0d
+			dependencies: ["0B9F12FC3A0D76DB"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "65FA6A66B6E4AFDE", type: "advancement", advancement: "minecraft:husbandry/breed_an_animal", criterion: "" } { id: "5183C1308A8F939C", type: "item", item: { count: 1, id: "minecraft:leather" } } { id: "1C8918C1D7F3691E", type: "item", item: { count: 1, id: "minecraft:white_wool" } }]
+			rewards: [{ id: "6D1B640701DD6767", type: "item", item: { count: 1, id: "minecraft:wheat" }, count: 16 }]
+		}
+		{
+			id: "435C32DFDF5E41DB"
+			x: 3d
+			y: 0.0d
+			dependencies: ["57C64F2A0AE8C195"]
+			tasks: [{ id: "163575BFB953C993", type: "item", item: { count: 1, id: "farmersdelight:roast_chicken_block" } }]
+			rewards: [{ id: "2959328D41DA256C", type: "random", table_id: 5557977682739783447L }]
+		}
+		{
+			id: "5072518227F8CD81"
+			x: 0d
+			y: 2.5d
+			dependencies: ["0B9F12FC3A0D76DB"]
+			hide_until_deps_complete: true
+			tasks: [{ id: "0E87B3E03C639A34", type: "structure", structure: "#betterdungeons:better_dungeons" }]
+			rewards: [{ id: "15A8DCEF8583AB88", type: "random", table_id: 8760363617949925918L }]
+		}
+		{
+			id: "50C498DDB0A4A3C2"
+			x: 2d
+			y: 2.5d
+			dependencies: ["5072518227F8CD81"]
+			tasks: [{ id: "08C74F266AF8D770", type: "kill", entity: "minecraft:zombie", value: 15L } { id: "0156F9C9DC3621D4", type: "kill", entity: "minecraft:skeleton", value: 10L }]
+			rewards: [{ id: "595C5C6C8CF73C3E", type: "item", item: { count: 1, id: "minecraft:golden_apple" } }]
+		}
+		{
+			id: "2FEEBA673B7E3F04"
+			x: 4d
+			y: 2.5d
+			dependencies: ["50C498DDB0A4A3C2"]
+			tasks: [{ id: "599AE6A3ABFEEA7B", type: "advancement", advancement: "minecraft:story/follow_ender_eye", criterion: "" }]
+			rewards: [{ id: "2F8A71BA58867553", type: "xp_levels", xp_levels: 10 }]
+		}
+		{
+			id: "0749C65C25F08EDE"
+			x: 6d
+			y: 2.5d
+			dependencies: ["2FEEBA673B7E3F04"]
+			tasks: [{ id: "3CF71656D4D021DB", type: "structure", structure: "#betterstrongholds:better_strongholds" }]
+			rewards: [{ id: "2CDD430572DBABB6", type: "random", table_id: 5557977682739783447L }]
+		}
+		{
+			id: "046C91841CECCCD9"
+			x: 6d
+			y: -1.75d
+			dependencies: ["6F54D8ED8A8196FA" "5072518227F8CD81"]
+			shape: "diamond"
+			tasks: [{ id: "3B2E4D535F735CD2", type: "checkmark" }]
+			rewards: [{ id: "03D4B68AF16D6CEE", type: "item", item: { count: 1, id: "create:wrench" } }]
+		}
+		{
+			id: "3982EBB723ECD32B"
+			x: 9d
+			y: 0d
+			dependencies: ["583701BAC331E8D3" "435C32DFDF5E41DB" "0749C65C25F08EDE" "046C91841CECCCD9"]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{ id: "5B20A4A407692A4B", type: "checkmark" }]
+			rewards: [{ id: "14A02A0A9719CB42", type: "item", item: { count: 1, id: "kubejs:seal_of_the_kinetic_age" } } { id: "6B828397811F8F5F", type: "item", item: { count: 1, id: "sophisticatedbackpacks:iron_backpack" } } { id: "25396BCB8AB6C06E", type: "random", table_id: 5557977682739783447L } { id: "3F4B27B53807DD49", type: "item", item: { count: 1, id: "minecraft:iron_ingot" }, count: 32 }]
+		}
+	]
+}

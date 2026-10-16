@@ -1,0 +1,251 @@
+{
+	chapter.06D549B6B094B264.chapter_subtitle: ["The tutorial. Open this book any time with the key shown in the corner."]
+	chapter.06D549B6B094B264.title: "First Light"
+	chapter.0B5F41B0FBA22540.chapter_subtitle: ["Two metals become one."]
+	chapter.0B5F41B0FBA22540.title: "Bronze Age"
+	chapter.10E4FCEE9BFA12AD.chapter_subtitle: ["Stronger, deeper, darker."]
+	chapter.10E4FCEE9BFA12AD.title: "Iron Age"
+	chapter.1B475BEDC08E740C.chapter_subtitle: ["Things begin to move on their own."]
+	chapter.1B475BEDC08E740C.title: "Kinetic Age"
+	chapter.29E94873133BB35A.chapter_subtitle: ["Precision and fire."]
+	chapter.29E94873133BB35A.title: "Brass Age"
+	chapter.2A42D404A1DC4559.chapter_subtitle: ["Cook every dish. Always open."]
+	chapter.2A42D404A1DC4559.title: "Kitchen Log"
+	chapter.3F24E0E73C81246E.chapter_subtitle: ["Silly side quests. Always open."]
+	chapter.3F24E0E73C81246E.title: "Trophy Hall"
+	chapter.4F0AEEF1FA334AB8.chapter_subtitle: ["Tools, fire and a warm meal."]
+	chapter.4F0AEEF1FA334AB8.title: "Stone Age"
+	chapter.7331123BACE2EE87.chapter_subtitle: ["The final age. Electricity, enchantment and the Grand Line."]
+	chapter.7331123BACE2EE87.title: "Spark Age"
+	chapter.794DA6D6073D6379.chapter_subtitle: ["Heavy industry and iron roads."]
+	chapter.794DA6D6073D6379.title: "Steel Age"
+	quest.004FE566FC037A7A.quest_desc: ["Nearly as good as iron."]
+	quest.004FE566FC037A7A.title: "Bronze Armor"
+	quest.01FD4B4C54A8D62A.quest_desc: ["Zinc is a new ore from Create. Look for pale green-grey speckles below Y=70."]
+	quest.01FD4B4C54A8D62A.title: "Mine Zinc"
+	quest.046C91841CECCCD9.quest_desc: ["&eMerge:&r in old dungeon ruins you find drawings of spinning shafts and gears...\\n\\n&bCreate&r runs on &erotation&r: water wheels and windmills spin shafts, and shafts power machines. Here is a wrench to start tinkering."]
+	quest.046C91841CECCCD9.title: "Curious Machinery"
+	quest.04A2B047EB8744CF.quest_desc: ["&eMerge:&r build a train that hauls your steel between two bases."]
+	quest.04A2B047EB8744CF.title: "Heavy Rail"
+	quest.06DE7FF3D4FB67D4.quest_desc: ["Scale up the farm."]
+	quest.06DE7FF3D4FB67D4.title: "Harvest 64 Crops"
+	quest.071B437B74E3E579.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.071B437B74E3E579.title: "Nether Salad"
+	quest.0749C65C25F08EDE.quest_desc: ["A maze of stone, libraries and traps. Tread carefully."]
+	quest.0749C65C25F08EDE.title: "Stronghold"
+	quest.076A5AF7A2BD903F.quest_desc: ["&bTFMG&r (The Factory Must Grow) bakes coal into coke, a hotter fuel."]
+	quest.076A5AF7A2BD903F.title: "Coke Oven"
+	quest.0A2241432084E65F.quest_desc: ["Climb a mountain peak and look out. Check this off at the top."]
+	quest.0A2241432084E65F.title: "Spyglass Summit"
+	quest.0B9F12FC3A0D76DB.quest_desc: ["&6Gate:&r the &eIron Age&r opens. The &dSeal of Iron&r unlocks iron tools and armor.\\n\\nYour backpack grows to &6Copper&r, and here is your first &bWaystone&r: place it at home and teleport back from any other waystone."]
+	quest.0B9F12FC3A0D76DB.quest_subtitle: "Age Gate"
+	quest.0B9F12FC3A0D76DB.title: "Age of Bronze"
+	quest.0CAA9C9CE45D42B2.quest_desc: ["Grind wheat to flour for bread and dough."]
+	quest.0CAA9C9CE45D42B2.title: "Millstone Flour"
+	quest.0D08AA315C671A42.quest_desc: ["Sails around a windmill bearing make a mill. Up high, it spins in any weather."]
+	quest.0D08AA315C671A42.title: "Windmill on the Hill"
+	quest.10447A5A0013D0B6.quest_desc: ["Mill Frame + Seal of the Spark. Rolls ingots into wire."]
+	quest.10447A5A0013D0B6.title: "Rolling Mill"
+	quest.1073D9137EF6DA74.quest_desc: ["&eMerge:&r electricity runs a Create machine, and the Engine Room from the Steel Age keeps the lights on. Check off when a machine runs on electricity."]
+	quest.1073D9137EF6DA74.title: "Power Grid"
+	quest.10930C201CDB89DB.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.10930C201CDB89DB.title: "Fruit Salad"
+	quest.117E309264C8F8DC.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.117E309264C8F8DC.title: "Chocolate Pie"
+	quest.11EB5FAB9CB27E10.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.11EB5FAB9CB27E10.title: "Pumpkin Soup"
+	quest.12C27A6318C45E1B.quest_desc: ["Ride a train through a tunnel you dug."]
+	quest.12C27A6318C45E1B.title: "Through the Mountain"
+	quest.13697279C2E66E30.quest_desc: ["Obsidian frame, flint and steel. Bring food and armor."]
+	quest.13697279C2E66E30.title: "Into the Nether"
+	quest.1371453DC1ED0B74.quest_desc: ["Presses ingots into sheets."]
+	quest.1371453DC1ED0B74.title: "Mechanical Press"
+	quest.13EDA76AF227D376.quest_desc: ["&6Gate:&r the &eSteel Age&r. Diamond backpack and three more waystones."]
+	quest.13EDA76AF227D376.quest_subtitle: "Age Gate"
+	quest.13EDA76AF227D376.title: "Gleaming"
+	quest.1544D738FF66BACB.quest_desc: ["&bSlice & Dice&r: the Slicer uses a Farmer's Delight knife automatically."]
+	quest.1544D738FF66BACB.title: "Kitchen Automation"
+	quest.17417239150B9BF0.quest_desc: ["Create trains run on these."]
+	quest.17417239150B9BF0.title: "Train Track"
+	quest.186EB01559314EC0.quest_desc: ["Right-click a villager with a job to trade."]
+	quest.186EB01559314EC0.title: "Trade Once"
+	quest.18BC7A20FF62992C.quest_desc: ["Electricity back into rotation, anywhere, no water needed."]
+	quest.18BC7A20FF62992C.title: "Electric Motor"
+	quest.1CDACF83DEEB34E8.quest_desc: ["&eMerge:&r your bronze pickaxe and mining know-how. Bring back 16 raw iron."]
+	quest.1CDACF83DEEB34E8.title: "Deep Prospector"
+	quest.1CE4BD284B220D34.quest_desc: ["&eMerge:&r steel and fuel make a real engine."]
+	quest.1CE4BD284B220D34.title: "Engine Room"
+	quest.20BC1DE9290ABEE6.quest_desc: ["Give the train a schedule so it runs on its own."]
+	quest.20BC1DE9290ABEE6.title: "Two-Station Route"
+	quest.20D3A66FB1E630A6.quest_desc: ["A place to sleep and a place to keep things. That is a base."]
+	quest.20D3A66FB1E630A6.title: "Bed & Chest"
+	quest.20DC81E9FCFFA408.quest_desc: ["Andesite + iron nuggets + the Seal. The bones of every Create machine."]
+	quest.20DC81E9FCFFA408.title: "Andesite Alloy"
+	quest.20DD4016D9C862DD.quest_desc: ["Tin ore is pale grey-speckled stone, a bit deeper than copper (look below Y=40). Needs at least a stone pickaxe."]
+	quest.20DD4016D9C862DD.title: "Find Tin"
+	quest.2227FE9F824CE158.quest_desc: ["&eMerge:&r copper + zinc in a Mixer on a &cheated&r basin. Heat? A Blaze Burner... you need the &dSeal of Brass&r for that. Finish the Gate first, then come back."]
+	quest.2227FE9F824CE158.title: "Brass Dreams"
+	quest.2458429906C9AA2B.quest_desc: ["&eMerge:&r automate one item from raw material to finished product without touching it. Check off when it runs."]
+	quest.2458429906C9AA2B.title: "The Factory Floor"
+	quest.272200C823A4E94D.quest_desc: ["Put harvesters on a moving contraption and they reap as they pass."]
+	quest.272200C823A4E94D.title: "Automated Harvest"
+	quest.27A0E66316F57661.quest_desc: ["Press &eM&r for the world map and &eB&r to add a waypoint. Mark your spawn so you can always find home."]
+	quest.27A0E66316F57661.title: "Where Am I?"
+	quest.2965852F4C828EE1.quest_desc: ["A full set of stone tools."]
+	quest.2965852F4C828EE1.title: "Stone Kit"
+	quest.29AD346733AC548F.quest_desc: ["Villages have food, beds and people to trade with."]
+	quest.29AD346733AC548F.title: "Find a Village"
+	quest.2A8B308A7A3C8095.quest_desc: ["Break grass for seeds, hoe some dirt near water, and plant."]
+	quest.2A8B308A7A3C8095.title: "Plant Wheat"
+	quest.2BCC6D221C80A048.quest_desc: ["Link three far-apart bases by train, each with a waystone. With Distant Horizons on, climb a peak and see the whole line."]
+	quest.2BCC6D221C80A048.title: "The Grand Line"
+	quest.2FEEBA673B7E3F04.quest_desc: ["Throw an Eye of Ender and follow it to a stronghold."]
+	quest.2FEEBA673B7E3F04.title: "Eye of Ender"
+	quest.31D27DBA25D73C48.quest_desc: ["Put it in flowing water and it spins forever. Wear the goggles to see speed and stress."]
+	quest.31D27DBA25D73C48.title: "Water Wheel"
+	quest.3450C0960C7F9112.quest_desc: ["&6Gate:&r the &eBrass Age&r. The &dSeal of Brass&r unlocks the Blaze Burner. Your backpack goes &6Gold&r, with a magnet!"]
+	quest.3450C0960C7F9112.quest_subtitle: "Age Gate"
+	quest.3450C0960C7F9112.title: "Motion"
+	quest.37DDB68DED8145C1.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.37DDB68DED8145C1.title: "Shepherds Pie"
+	quest.3838CC68758564B6.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.3838CC68758564B6.title: "Mixed Salad"
+	quest.3982EBB723ECD32B.quest_desc: ["&6Gate:&r the &eKinetic Age&r begins. The &dSeal of the Kinetic Age&r unlocks &bAndesite Alloy&r, the first Create material."]
+	quest.3982EBB723ECD32B.quest_subtitle: "Age Gate"
+	quest.3982EBB723ECD32B.title: "The Iron Will"
+	quest.3A5ABCECFC7F5F6C.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.3A5ABCECFC7F5F6C.title: "Baked Cod Stew"
+	quest.3F46B93FE9AF71A1.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.3F46B93FE9AF71A1.title: "Apple Pie"
+	quest.3F71037910F94C34.quest_desc: ["Your first tool."]
+	quest.3F71037910F94C34.title: "Wooden Pickaxe"
+	quest.405BCA1705D5D5C2.quest_desc: ["&6Gate:&r you are ready for the &eStone Age&r.\\n\\nThis gives you the &dSeal of Stone&r. Seals unlock each Age's key recipes; keep them safe (they are never used up). The furnace needs this one."]
+	quest.405BCA1705D5D5C2.quest_subtitle: "Age Gate"
+	quest.405BCA1705D5D5C2.title: "Ready"
+	quest.411A64270A0EDEB0.quest_desc: ["Repair and rename your gear."]
+	quest.411A64270A0EDEB0.title: "Anvil"
+	quest.4186F8F7A28A18A1.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.4186F8F7A28A18A1.title: "Fish Stew"
+	quest.41949EDADCA67347.quest_desc: ["Mix sugar, cocoa and milk. Because you can."]
+	quest.41949EDADCA67347.title: "Chocolate River"
+	quest.424741C2D3D233FE.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.424741C2D3D233FE.title: "Vegetable Soup"
+	quest.435C32DFDF5E41DB.quest_desc: ["A whole roast chicken. Place it and serve slices to your friends."]
+	quest.435C32DFDF5E41DB.title: "Feast"
+	quest.442BFAE73E693CE1.quest_desc: ["&bFarmer's Delight&r adds real cooking. The pot needs a heat source under it: a campfire or a lit furnace."]
+	quest.442BFAE73E693CE1.title: "Cooking Pot"
+	quest.4731E3D35F478FA4.quest_desc: ["Smelt logs to make charcoal. No coal? No problem."]
+	quest.4731E3D35F478FA4.title: "Charcoal Burner"
+	quest.475CF7C7F6E822F5.quest_desc: ["The Seal of Iron goes in the grid with the ingots."]
+	quest.475CF7C7F6E822F5.title: "Iron Armor"
+	quest.47EB7D91F0B8A5EB.quest_desc: ["A blaze that enchants items with liquid XP."]
+	quest.47EB7D91F0B8A5EB.title: "Blaze Enchanter"
+	quest.4819DE939CDAF827.quest_desc: ["Catch a fish."]
+	quest.4819DE939CDAF827.title: "Gone Fishin'"
+	quest.48D437ED22A49BA2.quest_desc: ["Shafts carry rotation; cogs change its speed."]
+	quest.48D437ED22A49BA2.title: "Shafts & Cogs"
+	quest.48E4036CCB2D63AA.quest_desc: ["Everyone remembers their first."]
+	quest.48E4036CCB2D63AA.title: "Diamonds!"
+	quest.493654FA83E10957.quest_desc: ["Hearty food fills you up far longer than raw vegetables."]
+	quest.493654FA83E10957.title: "First Stew"
+	quest.49B06BFB39366D86.quest_desc: ["Hover any item and press &eR&r to see its recipe, or &eU&r to see what it is used for. The list on the right side of your inventory is &bJEI&r; search it with the box at the bottom.\\n\\nAlso try &eJade&r: look at any block and a label at the top tells you what it is."]
+	quest.49B06BFB39366D86.title: "Look It Up"
+	quest.4A2044BE20F7F8EB.quest_desc: ["Oil lies deep. Build a pumpjack over a deposit."]
+	quest.4A2044BE20F7F8EB.title: "Striking Oil"
+	quest.4C882A37C3ABC1D5.quest_desc: ["&eMerge:&r build a farm that runs by itself: water-wheel power, harvesters, done. Check this off when food makes itself."]
+	quest.4C882A37C3ABC1D5.title: "Self-Feeding Base"
+	quest.4CF6DE075CF55C52.quest_desc: ["Paper plus a compass makes a map. Knowledge is power."]
+	quest.4CF6DE075CF55C52.title: "Cartographer"
+	quest.4DE1B176406848BA.quest_desc: ["Store power for later."]
+	quest.4DE1B176406848BA.title: "Battery Bank"
+	quest.4FDF0831E3DABCFB.quest_desc: ["&6The end of all Ages.&r\\n\\nFrom a punched tree to a humming electric empire. You are the &6Architect of Ages&r."]
+	quest.4FDF0831E3DABCFB.quest_subtitle: "Age Gate"
+	quest.4FDF0831E3DABCFB.title: "The Age of Wonders"
+	quest.5072518227F8CD81.quest_desc: ["Dungeons hide under the surface. Listen for mobs through the stone."]
+	quest.5072518227F8CD81.title: "Dungeon Diver"
+	quest.50C498DDB0A4A3C2.quest_desc: ["Clear the halls."]
+	quest.50C498DDB0A4A3C2.title: "Kill 25 Undead"
+	quest.5188F1E9630643A3.quest_desc: ["Find an abandoned mineshaft. They run deep."]
+	quest.5188F1E9630643A3.title: "Mineshaft Delver"
+	quest.54798A623EC1ECFE.quest_desc: ["Copper ore is orange-speckled stone, common in hills."]
+	quest.54798A623EC1ECFE.title: "Mine Copper"
+	quest.555192FEE22A6F0D.quest_desc: ["Sleep through a night."]
+	quest.555192FEE22A6F0D.title: "Sweet Dreams"
+	quest.55A3B09C6EBDF059.quest_desc: ["Craft an Empty Blaze Burner (needs the Seal of Brass), then right-click a blaze with it."]
+	quest.55A3B09C6EBDF059.title: "Catch a Blaze"
+	quest.561B98AE37BEEED9.quest_desc: ["&bCreate: Crafts & Additions&r. Spin it and it makes electricity."]
+	quest.561B98AE37BEEED9.title: "Alternator"
+	quest.5722113FC5DEFBE5.quest_desc: ["Crafting grids of any size, automated."]
+	quest.5722113FC5DEFBE5.title: "Mechanical Crafter"
+	quest.57C64F2A0AE8C195.quest_desc: ["Breed animals: wheat for cows and sheep, carrots for pigs."]
+	quest.57C64F2A0AE8C195.title: "Animal Husbandry"
+	quest.583701BAC331E8D3.quest_desc: ["Right-click to block."]
+	quest.583701BAC331E8D3.title: "Shield Up"
+	quest.587D3AFBCDEB7C8C.quest_desc: ["Right-click a stripped log with a brass ingot."]
+	quest.587D3AFBCDEB7C8C.title: "Brass Casing"
+	quest.5A4A0B7DF4784B7E.quest_desc: ["&eMerge:&r 3 copper ingots + 1 tin ingot + your &dSeal of Bronze&r = 4 Bronze Blend. Smelt it into bronze ingots."]
+	quest.5A4A0B7DF4784B7E.title: "First Alloy"
+	quest.5FDFAE5FD4787F27.quest_desc: ["&6Gate:&r the final age: &eSpark&r. The &dSeal of the Spark&r completes the Rolling Mill."]
+	quest.5FDFAE5FD4787F27.quest_subtitle: "Age Gate"
+	quest.5FDFAE5FD4787F27.title: "Forged"
+	quest.61B016C33B467AE6.quest_desc: ["Iron + coke, very hot. The strongest metal yet."]
+	quest.61B016C33B467AE6.title: "Steel Ingot"
+	quest.651F9513B9566C93.quest_desc: ["&bEnchantment Industry&r: grind enchanted gear into liquid experience."]
+	quest.651F9513B9566C93.title: "Enchanting on Tap"
+	quest.658750B710B53FA0.quest_desc: ["Distill crude oil into fuels."]
+	quest.658750B710B53FA0.title: "Refinery"
+	quest.659BA92315416E71.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.659BA92315416E71.title: "Steak And Potatoes"
+	quest.65BA251E468A739B.quest_desc: ["Dark brick halls full of blazes."]
+	quest.65BA251E468A739B.title: "Find a Fortress"
+	quest.6664FCA823DB626D.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.6664FCA823DB626D.title: "Beef Stew"
+	quest.667489F27142BFE7.quest_desc: ["Cobblestone beats wood. Make a stone pickaxe."]
+	quest.667489F27142BFE7.title: "Stone Tools"
+	quest.681D0CDF65B19606.quest_desc: ["Step-by-step assembly on a belt. The wow moment."]
+	quest.681D0CDF65B19606.title: "Sequenced Assembly"
+	quest.68BC051601868010.quest_desc: ["Stations are where trains are built and stop."]
+	quest.68BC051601868010.title: "Station"
+	quest.691FDB34F3B840D6.quest_desc: ["A robot arm that uses items like a player."]
+	quest.691FDB34F3B840D6.title: "Deployer"
+	quest.6A7672267F4308B3.quest_desc: ["A big multi-block furnace for steel."]
+	quest.6A7672267F4308B3.title: "Blast Furnace"
+	quest.6AA75FFE25E32CA4.quest_desc: ["Faster and tougher than stone."]
+	quest.6AA75FFE25E32CA4.title: "Bronze Tools"
+	quest.6B93BFDC50958FF1.quest_desc: ["Four planks in your 2x2 grid makes a crafting table: your 3x3 workshop."]
+	quest.6B93BFDC50958FF1.title: "Crafting Table"
+	quest.6BFB5539D1CEC86A.quest_desc: ["Welcome to &6the Ages&r! This book is your guide. Each chapter is an &eAge&r; finish one and the next opens up.\\n\\nClick the checkmark to begin."]
+	quest.6BFB5539D1CEC86A.title: "Wake Up"
+	quest.6C3F17378A15C05D.quest_desc: ["Assemble a train at a station and drive it."]
+	quest.6C3F17378A15C05D.title: "First Train"
+	quest.6D316507F4205439.quest_desc: ["Five different dishes. A varied diet is a happy diet."]
+	quest.6D316507F4205439.title: "Pantry"
+	quest.6F54D8ED8A8196FA.quest_desc: ["Smelts ores twice as fast."]
+	quest.6F54D8ED8A8196FA.title: "Blast Furnace"
+	quest.74C773B5C37EA8F2.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.74C773B5C37EA8F2.title: "Stuffed Potato"
+	quest.7573161DD346AAFC.quest_desc: ["Set a waypoint at your base (&eB&r). Check it off when you have."]
+	quest.7573161DD346AAFC.title: "Home Waypoint"
+	quest.75E1ABAF6226A685.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.75E1ABAF6226A685.title: "Chicken Soup"
+	quest.76016D8C7E4E16A2.quest_desc: ["Mixes things in a basin below it."]
+	quest.76016D8C7E4E16A2.title: "Mechanical Mixer"
+	quest.7646B5423F339AD8.quest_desc: ["Any log works for real, but this quest wants &eOak&r. Hold left-click on a tree trunk."]
+	quest.7646B5423F339AD8.title: "Punch a Tree"
+	quest.76717FB083F050C7.quest_desc: ["Pick up lava in a bucket. Carefully."]
+	quest.76717FB083F050C7.title: "Hot Tub"
+	quest.776199161BB1945F.quest_desc: ["Cook it (or find it). Collect them all."]
+	quest.776199161BB1945F.title: "Noodle Soup"
+	quest.786675CE7781EE03.quest_desc: ["&eMerge:&r the Maker and the Hearth meet. Cook beef stew and earn your first &bBackpack&r!"]
+	quest.786675CE7781EE03.title: "Hot Meal"
+	quest.793BB15FDAF9AA28.quest_desc: ["Tame a wolf or a cat."]
+	quest.793BB15FDAF9AA28.title: "Best Friend"
+	quest.79E03438DAB89B06.quest_desc: ["The furnace needs your &dSeal of Stone&r in the crafting grid. It stays in the grid; you keep it."]
+	quest.79E03438DAB89B06.title: "Furnace"
+	quest.7D0BC39519E50BC5.quest_desc: ["&6Gate:&r you have tools, food and a home. The &eBronze Age&r awaits.\\n\\nThe &dSeal of Bronze&r lets you mix Bronze Blend."]
+	quest.7D0BC39519E50BC5.quest_subtitle: "Age Gate"
+	quest.7D0BC39519E50BC5.title: "Master of Stone"
+	reward_table.2828F94F33A092AF.title: "Epic Loot Bag"
+	reward_table.4D21E7414940E717.title: "Rare Loot Bag"
+	reward_table.7993104BCF29421E.title: "Common Loot Bag"
+}

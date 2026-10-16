@@ -1,0 +1,117 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "kitchen"
+	group: ""
+	icon: { id: "farmersdelight:cooking_pot" }
+	id: "2A42D404A1DC4559"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "424741C2D3D233FE"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{ id: "1B5DC29C4450A1F8", type: "item", item: { count: 1, id: "farmersdelight:vegetable_soup" } }]
+			rewards: [{ id: "642295893D11C534", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "6664FCA823DB626D"
+			x: 1.5d
+			y: 0.0d
+			tasks: [{ id: "042EE5B9F03DC307", type: "item", item: { count: 1, id: "farmersdelight:beef_stew" } }]
+			rewards: [{ id: "5A97A8B86D11A9A1", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "75E1ABAF6226A685"
+			x: 3.0d
+			y: 0.0d
+			tasks: [{ id: "15DDE24501FDC5B5", type: "item", item: { count: 1, id: "farmersdelight:chicken_soup" } }]
+			rewards: [{ id: "5F3783B5A6F91E6A", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "4186F8F7A28A18A1"
+			x: 4.5d
+			y: 0.0d
+			tasks: [{ id: "5320CFE99E3D5CEB", type: "item", item: { count: 1, id: "farmersdelight:fish_stew" } }]
+			rewards: [{ id: "5E63AF0002A2B30E", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "11EB5FAB9CB27E10"
+			x: 6.0d
+			y: 0.0d
+			tasks: [{ id: "0947E890995E3E08", type: "item", item: { count: 1, id: "farmersdelight:pumpkin_soup" } }]
+			rewards: [{ id: "1DBB5B41EE951239", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "3A5ABCECFC7F5F6C"
+			x: 0.0d
+			y: 1.5d
+			tasks: [{ id: "141E117310A60E5A", type: "item", item: { count: 1, id: "farmersdelight:baked_cod_stew" } }]
+			rewards: [{ id: "1AB98738854F3B1D", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "776199161BB1945F"
+			x: 1.5d
+			y: 1.5d
+			tasks: [{ id: "50B05A654A8E6177", type: "item", item: { count: 1, id: "farmersdelight:noodle_soup" } }]
+			rewards: [{ id: "44A4710AC4DDBD5E", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "3838CC68758564B6"
+			x: 3.0d
+			y: 1.5d
+			tasks: [{ id: "3AA2EA35E7909ACE", type: "item", item: { count: 1, id: "farmersdelight:mixed_salad" } }]
+			rewards: [{ id: "64EB91B9A3CEFDEB", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "10930C201CDB89DB"
+			x: 4.5d
+			y: 1.5d
+			tasks: [{ id: "34BC2A48BFF87936", type: "item", item: { count: 1, id: "farmersdelight:fruit_salad" } }]
+			rewards: [{ id: "5A20F8272198417E", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "071B437B74E3E579"
+			x: 6.0d
+			y: 1.5d
+			tasks: [{ id: "12D5B1CFE08C25FC", type: "item", item: { count: 1, id: "farmersdelight:nether_salad" } }]
+			rewards: [{ id: "1B4565B27D461BBF", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "659BA92315416E71"
+			x: 0.0d
+			y: 3.0d
+			tasks: [{ id: "23A728D712865F9D", type: "item", item: { count: 1, id: "farmersdelight:steak_and_potatoes" } }]
+			rewards: [{ id: "40499726ABCD2314", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "74C773B5C37EA8F2"
+			x: 1.5d
+			y: 3.0d
+			tasks: [{ id: "24872286F6626E37", type: "item", item: { count: 1, id: "farmersdelight:stuffed_potato" } }]
+			rewards: [{ id: "020124F6A56829D8", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "37DDB68DED8145C1"
+			x: 3.0d
+			y: 3.0d
+			tasks: [{ id: "0614855074A942CC", type: "item", item: { count: 1, id: "farmersdelight:shepherds_pie" } }]
+			rewards: [{ id: "0CC4E142B599138C", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "3F46B93FE9AF71A1"
+			x: 4.5d
+			y: 3.0d
+			tasks: [{ id: "7BC703DE64948145", type: "item", item: { count: 1, id: "farmersdelight:apple_pie" } }]
+			rewards: [{ id: "58C842404619C2DD", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "117E309264C8F8DC"
+			x: 6.0d
+			y: 3.0d
+			tasks: [{ id: "39A6CDDE64DE5A19", type: "item", item: { count: 1, id: "farmersdelight:chocolate_pie" } }]
+			rewards: [{ id: "56552945BD992750", type: "xp_levels", xp_levels: 1 }]
+		}
+	]
+}

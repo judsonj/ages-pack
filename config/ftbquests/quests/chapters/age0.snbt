@@ -1,0 +1,71 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "age0"
+	group: ""
+	icon: { id: "minecraft:torch" }
+	id: "06D549B6B094B264"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6BFB5539D1CEC86A"
+			x: 0d
+			y: 0d
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{ id: "3BFCC66343FB410D", type: "checkmark" }]
+			rewards: [{ id: "4E2F7BDCA92BDA59", type: "item", item: { count: 1, id: "minecraft:bread" }, count: 3 }]
+		}
+		{
+			id: "7646B5423F339AD8"
+			x: 2d
+			y: -1.5d
+			dependencies: ["6BFB5539D1CEC86A"]
+			tasks: [{ id: "134A7A5714B6B23B", type: "item", item: { count: 1, id: "minecraft:oak_log" } }]
+			rewards: [{ id: "02F99B870062CF4D", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "6B93BFDC50958FF1"
+			x: 4d
+			y: -1.5d
+			dependencies: ["7646B5423F339AD8"]
+			tasks: [{ id: "0D411349E534C8A5", type: "item", item: { count: 1, id: "minecraft:crafting_table" } }]
+			rewards: [{ id: "122CEFC4E3BD7F21", type: "item", item: { count: 1, id: "minecraft:torch" }, count: 16 }]
+		}
+		{
+			id: "3F71037910F94C34"
+			x: 6d
+			y: -1.5d
+			dependencies: ["6B93BFDC50958FF1"]
+			tasks: [{ id: "1370E4620551BDF2", type: "item", item: { count: 1, id: "minecraft:wooden_pickaxe" } }]
+			rewards: [{ id: "48780F72B880084F", type: "xp_levels", xp_levels: 1 }]
+		}
+		{
+			id: "49B06BFB39366D86"
+			x: 2d
+			y: 1.5d
+			dependencies: ["6BFB5539D1CEC86A"]
+			tasks: [{ id: "6F2B4E35CBB734D6", type: "checkmark" }]
+			rewards: [{ id: "1D00BCD6881D9A51", type: "xp_levels", xp_levels: 5 }]
+		}
+		{
+			id: "27A0E66316F57661"
+			x: 4d
+			y: 1.5d
+			dependencies: ["49B06BFB39366D86"]
+			tasks: [{ id: "06ACFEBA67E36853", type: "checkmark" }]
+			rewards: [{ id: "66881BCE056B9391", type: "xp_levels", xp_levels: 2 }]
+		}
+		{
+			id: "405BCA1705D5D5C2"
+			x: 8d
+			y: 0d
+			dependencies: ["3F71037910F94C34" "27A0E66316F57661"]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{ id: "69087244C15025E7", type: "checkmark" }]
+			rewards: [{ id: "1AFE483010561B61", type: "item", item: { count: 1, id: "kubejs:seal_of_stone" } } { id: "3318CEABD2474383", type: "random", table_id: 8760363617949925918L } { id: "7EB26A6780ACB4C2", type: "item", item: { count: 1, id: "minecraft:white_bed" } }]
+		}
+	]
+}
