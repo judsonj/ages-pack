@@ -1,0 +1,8 @@
+name = "FlowerPatch-neoforge-1.21.1-7.1.0.jar"
+filename = "FlowerPatch-neoforge-1.21.1-7.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hbo1O1M/versions/T1W9arvB/FlowerPatch-neoforge-1.21.1-7.1.0.jar"
+hash-format = "sha512"
+hash = "aa41fd3d1146ffdf1c5a7c8be7302ab6978f5f687c9fa39c729d05d9536fdfd665f15bb135538dcdacca2226976bd78ad82cd33bf22aaefa49d6901b170bdb01"

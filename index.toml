@@ -229,12 +229,21 @@ file = "kubejs/server_scripts/bronze_recipes.js"
 hash = "31fe96f6e876384c9298b9f86a03a1c1e113c3eddad0abfba130e7a7eb2dea39"
 
 [[files]]
+file = "kubejs/server_scripts/creeper_no_grief.js"
+hash = "952004397ecc6231801ef6a044862ff6aa571371b98f9c70dd5ef887ee00af0f"
+
+[[files]]
 file = "kubejs/server_scripts/world_rules.js"
 hash = "82e40eb5eae723cb191b4bb7660a6e80eb45f2a1f202e880c7801febf96d0d91"
 
 [[files]]
 file = "kubejs/startup_scripts/bronze_age.js"
 hash = "ce2293e01bed0c241c59b4745613da413ea08c66465df88f4c29922917d6fd2b"
+
+[[files]]
+file = "mods/1-21-1-21-1-neoforge-additional-placements-3-0-1.pw.toml"
+hash = "c27616c646166649bf06c60dda87bcf25481d16dd49fd948246d43315bd9d465"
+metafile = true
 
 [[files]]
 file = "mods/appleskin-neoforge-mc1-21-3-0-7.pw.toml"
@@ -278,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling-neoforge-1-9-5-mc1-21-1.pw.toml"
-hash = "62e8ed9915967c7acd171681bfdb654bd05be65dc5244ae649166e0b4ffc10d7"
+hash = "129f9a81170fe938693842eff98a82783592f7e9a51a0cb546643719dc1db03d"
 metafile = true
 
 [[files]]
@@ -294,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-7-0-2-neoforge.pw.toml"
 hash = "a1e05fb4ec0ed4c4debb2ce231223bc477a0975961fb662b4f57d21a66b4e57f"
+metafile = true
+
+[[files]]
+file = "mods/flowerpatch-neoforge-1-21-1-7-1-0.pw.toml"
+hash = "273337a3beeb55fba1d1d9e5fb724b262bc1f0c290a3841de4272cf4a667d8fb"
 metafile = true
 
 [[files]]
@@ -318,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast-neoforge-1-6-7-1-21-1.pw.toml"
-hash = "7523e2ea7929318e36a2d6e3080f2cf21619406cde73b2df0dffb8c5a395fec7"
+hash = "b8146bb706c4c13149d682b4b3b07bec837ed893773a5df9e6717b62699e6dc4"
 metafile = true
 
 [[files]]
@@ -373,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-neoforge-0-6-13-mc1-21-1.pw.toml"
-hash = "6f6eca03d7f3d1556b0820c2dd2cf4d3cefa7bcdac0854452cff0136ce9e73c4"
+hash = "b258ad1521c568a650b111eaedc2c0e9dcd32d1a6f7e30c614c6f49326fe1679"
 metafile = true
 
 [[files]]
@@ -398,7 +412,12 @@ metafile = true
 
 [[files]]
 file = "mods/toastcontrol-1-21-1-9-0-1.pw.toml"
-hash = "2081ecc95aa4880f05ff06c91a660c7d9c484982f4b98ec555738c4e55019496"
+hash = "c28a5bb3bae67fab939bb745fe4ee3ff7023f078fc9dc92ca2ad8ec1212fe1b7"
+metafile = true
+
+[[files]]
+file = "mods/trashslot-neoforge-1-21-1-21-1-11.pw.toml"
+hash = "4925abc6626da4dafcba7f28472d5993430ca13ce6fe581926682e6a14cd25a1"
 metafile = true
 
 [[files]]

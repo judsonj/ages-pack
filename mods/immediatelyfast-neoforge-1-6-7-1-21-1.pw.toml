@@ -1,6 +1,6 @@
 name = "ImmediatelyFast-NeoForge-1.6.7+1.21.1.jar"
 filename = "ImmediatelyFast-NeoForge-1.6.7+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/VerzLexd/ImmediatelyFast-NeoForge-1.6.7%2B1.21.1.jar"

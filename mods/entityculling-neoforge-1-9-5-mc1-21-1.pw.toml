@@ -1,6 +1,6 @@
 name = "entityculling-neoforge-1.9.5-mc1.21.1.jar"
 filename = "entityculling-neoforge-1.9.5-mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/DwB2BGbW/entityculling-neoforge-1.9.5-mc1.21.1.jar"
