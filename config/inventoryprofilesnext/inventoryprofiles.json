@@ -1,0 +1,12 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        }
+    }
+}

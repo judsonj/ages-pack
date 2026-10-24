@@ -69,6 +69,10 @@ file = "config/ftbquests/quests/reward_tables/rare.snbt"
 hash = "b20f4fae80fa41a630af1edb6545a45a90dfaa2aacbb45a30fbc6ed19d07c613"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "43f13daf4be63641a5c040f5dca75220030b8d4498880507a5caddaa37c48d2c"
+
+[[files]]
 file = "config/toastcontrol-client.toml"
 hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 
@@ -336,6 +340,11 @@ hash = "b8146bb706c4c13149d682b4b3b07bec837ed893773a5df9e6717b62699e6dc4"
 metafile = true
 
 [[files]]
+file = "mods/inventoryprofilesnext-neoforge-1-21-1-2-2-5.pw.toml"
+hash = "89897bac44ecfced7c4cf4e2630e1bd5b0a596ba2eab25b6f1d62f82b7b36f62"
+metafile = true
+
+[[files]]
 file = "mods/jade-1-21-1-neoforge-15-10-3.pw.toml"
 hash = "455e40d791b81a895cf29489554a25ec10ddda3f911a64683e8bd942e9f6e1b0"
 metafile = true
@@ -353,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-neoforge-2101-7-2-build-348.pw.toml"
 hash = "6148f233c25df3e2fcf5f1cf55815ca276050683c863edb4a79bf1733d2eb7ff"
+metafile = true
+
+[[files]]
+file = "mods/libipn-neoforge-1-21-1-6-6-3.pw.toml"
+hash = "2f27035bddcff2c313812d74a4d99bce56cf7bed8f075778cc841b885419f22e"
 metafile = true
 
 [[files]]
