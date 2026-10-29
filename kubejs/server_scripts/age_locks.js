@@ -1,5 +1,16 @@
 // Age locks: each age's key recipes need that age's Seal in the grid.
 // The Seal comes from the previous age's Gate quest and is never consumed.
+// A later seal opens every older lock too: each lock takes the tag
+// kubejs:seals/<seal>, which holds that seal and every seal after it.
+
+const SEAL_LADDER = ['seal_of_stone', 'seal_of_bronze', 'seal_of_iron', 'seal_of_the_kinetic_age',
+  'seal_of_brass', 'seal_of_steel', 'seal_of_the_spark']
+
+ServerEvents.tags('item', event => {
+  SEAL_LADDER.forEach((seal, i) => {
+    event.add('kubejs:seals/' + seal, SEAL_LADDER.slice(i).map(s => 'kubejs:' + s))
+  })
+})
 
 ServerEvents.recipes(event => {
   // Rebuild a shaped recipe with the seal placed in the first empty slot (Z).
@@ -12,8 +23,8 @@ ServerEvents.recipes(event => {
       if (!placed && c === ' ') { placed = true; return 'Z' }
       return c
     }).join(''))
-    key.Z = 'kubejs:' + seal
-    event.shaped(output, out, key).keepIngredient('kubejs:' + seal).id('kubejs:locked/' + output.replace(/^\d+x /, '').replace(':', '/') + (idSuffix || ''))
+    key.Z = '#kubejs:seals/' + seal
+    event.shaped(output, out, key).keepIngredient('#kubejs:seals/' + seal).id('kubejs:locked/' + output.replace(/^\d+x /, '').replace(':', '/') + (idSuffix || ''))
   }
 
   // Stone Age: the furnace
@@ -47,6 +58,6 @@ ServerEvents.recipes(event => {
   event.shaped('kubejs:mill_frame', ['PSP', 'ASA', 'ACA'], {
     P: '#c:plates/iron', S: 'create:shaft', A: 'create:andesite_alloy', C: 'create:andesite_casing'
   }).id('kubejs:mill_frame')
-  event.shapeless('createaddition:rolling_mill', ['kubejs:mill_frame', 'kubejs:seal_of_the_spark'])
-    .keepIngredient('kubejs:seal_of_the_spark').id('kubejs:locked/createaddition/rolling_mill')
+  event.shapeless('createaddition:rolling_mill', ['kubejs:mill_frame', '#kubejs:seals/seal_of_the_spark'])
+    .keepIngredient('#kubejs:seals/seal_of_the_spark').id('kubejs:locked/createaddition/rolling_mill')
 })

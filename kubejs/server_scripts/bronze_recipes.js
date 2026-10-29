@@ -1,4 +1,4 @@
-// Bronze Age recipes. Bronze Blend needs the Seal of Bronze (kept in the grid).
+// Bronze Age recipes. Bronze Blend needs the Seal of Bronze or any later seal (kept in the grid).
 
 ServerEvents.recipes(event => {
   const K = 'kubejs:'
@@ -16,8 +16,8 @@ ServerEvents.recipes(event => {
   // Early alloying: 3 copper + 1 tin -> 4 blend -> smelt to bronze
   event.shapeless('4x ' + K + 'bronze_blend', [
     'minecraft:copper_ingot', 'minecraft:copper_ingot', 'minecraft:copper_ingot',
-    K + 'tin_ingot', K + 'seal_of_bronze'
-  ]).keepIngredient(K + 'seal_of_bronze')
+    K + 'tin_ingot', '#kubejs:seals/seal_of_bronze'
+  ]).keepIngredient('#kubejs:seals/seal_of_bronze')
   event.smelting(K + 'bronze_ingot', K + 'bronze_blend').xp(0.5)
   event.blasting(K + 'bronze_ingot', K + 'bronze_blend').xp(0.5)
 
