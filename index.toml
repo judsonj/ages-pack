@@ -340,6 +340,11 @@ hash = "b8146bb706c4c13149d682b4b3b07bec837ed893773a5df9e6717b62699e6dc4"
 metafile = true
 
 [[files]]
+file = "mods/inventoryessentials-neoforge-1-21-1-21-1-20.pw.toml"
+hash = "9a8ca92b24f19f48cec4f8bb1d27c72c63e303ac9c2e834ce8782f57142e6fd9"
+metafile = true
+
+[[files]]
 file = "mods/jade-1-21-1-neoforge-15-10-3.pw.toml"
 hash = "455e40d791b81a895cf29489554a25ec10ddda3f911a64683e8bd942e9f6e1b0"
 metafile = true
