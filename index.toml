@@ -265,8 +265,8 @@ hash = "d1cf6b18e179eefbc8f732350f59a2b67e2628c2eacdb22d8922d3c3d16ad6bb"
 metafile = true
 
 [[files]]
-file = "mods/create-1-21-1-6-0-8.pw.toml"
-hash = "fb6e1e78803c531cdc1fe9d80b1673ebfc970a66b2b1331f9c2fa179c4fece37"
+file = "mods/create-1-21-1-6-0-10.pw.toml"
+hash = "a66321e6ad556cedddd6a319da9a8845813f9e184ae3af4d80bc353a6c2bc873"
 metafile = true
 
 [[files]]
