@@ -415,8 +415,8 @@ hash = "c52d39b6aa9b18ecfa53033ce3aad3ce23e2a3f9610931442f2a7be5ad5e79b6"
 metafile = true
 
 [[files]]
-file = "mods/tfmg-1-2-0.pw.toml"
-hash = "89cdee25862fd00484bcae9ab6328882dc64b4b017f7c144d89f65cdb311670c"
+file = "mods/tfmg-1-21-1-1-3-2a-community.pw.toml"
+hash = "cfc66bdace1fec9ef62c3b5bd0e7ff0b12d0bdd97c953f556aaa35efc41b613d"
 metafile = true
 
 [[files]]
