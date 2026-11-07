@@ -1,0 +1,8 @@
+name = "toomanypaintings-26.08.16-1.21-neoforge.jar"
+filename = "toomanypaintings-26.08.16-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T8Fpxcl7/versions/Emm2DPMU/toomanypaintings-26.08.16-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "0fd435fe6fe810658a51a74b987c3343749c2cca4f10bea325eafd6d4b8b2b36e7e92cafdd6f8deea6c46f5fff85f7f4bb99024d2e7c2f8c8d4ec1c91efe4480"

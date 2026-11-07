@@ -1,0 +1,8 @@
+name = "cyclepaintings-1.21.1-5.0.jar"
+filename = "cyclepaintings-1.21.1-5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c85whkNB/versions/TEpJtwfY/cyclepaintings-1.21.1-5.0.jar"
+hash-format = "sha512"
+hash = "f7a5413d612c424eaee1f8233817bcb046a29e4747760cc5b0074ccf0d01c9820423dbc16f055353cee91a9f0297637a9242aa6c6f4b22f9c2c4dea2dd8e3d5a"

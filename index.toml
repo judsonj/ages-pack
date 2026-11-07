@@ -85,6 +85,18 @@ file = "config/xaero/minimap/profiles/default.cfg"
 hash = "36a3342b95c1d3643986fdd3ada65190aea76810183ec73a53bbf1f595d8c8e0"
 
 [[files]]
+file = "kubejs/assets/ages/textures/painting/first_friend.png"
+hash = "61f35de5effdc70b7fb4e265d9734ba9245a7d4514f3eec5d1811c23253d5392"
+
+[[files]]
+file = "kubejs/assets/ages/textures/painting/pig_patrol.png"
+hash = "b0420156e3637195cfd44b5a263ce8884fc738090636ebde751931357ee29133"
+
+[[files]]
+file = "kubejs/assets/ages/textures/painting/the_plains.png"
+hash = "b262b6a9a8c81362da210b74bd8c09334f671db8b694f844b1d43f09a8badabf"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/bronze_block.png"
 hash = "38f226daa71d1b7fa8fa73e7a37d204b527c986888b8ebd166c404ccd340386b"
 
@@ -205,6 +217,18 @@ file = "kubejs/assets/kubejs/textures/models/armor/bronze_layer_2.png"
 hash = "675125b4b510c7b6be73fa33603ba9c3ad5a926c0073c671eb7f1d3c98cd83d9"
 
 [[files]]
+file = "kubejs/data/ages/painting_variant/first_friend.json"
+hash = "bd327b82f2de04c40b77cdd97b1526e4dd810bb84175b95b4fcede47b5286eb9"
+
+[[files]]
+file = "kubejs/data/ages/painting_variant/pig_patrol.json"
+hash = "3c8f1682c67032b02e426287f64d8bb1edd7e176acdaf3a4798d32657b07746d"
+
+[[files]]
+file = "kubejs/data/ages/painting_variant/the_plains.json"
+hash = "a275448bdc91130c3dd6f6153e859a56f3f1ae2761c12c9460bb2d6c417f385c"
+
+[[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/deepslate_tin_ore.json"
 hash = "595aec304ba10b89f827335d202d4061126ec21ab69313d9cfd18756812ec950"
 
@@ -223,6 +247,10 @@ hash = "e4e2528dcfea4ce298dff63c6bca3e36512e88b1192838dba7cb006f3da98cd5"
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/tin_ore.json"
 hash = "e260fa1969e82e37f5c94a9a37c447d923314e821ae1bbd7dcec5cffd0e50ec5"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/painting_variant/placeable.json"
+hash = "700fc92cd26af7e7c3e749d3a794c7a82a6b7c3c7b74483ae2fc1d7972004d67"
 
 [[files]]
 file = "kubejs/server_scripts/age_locks.js"
@@ -265,6 +293,16 @@ hash = "d1cf6b18e179eefbc8f732350f59a2b67e2628c2eacdb22d8922d3c3d16ad6bb"
 metafile = true
 
 [[files]]
+file = "mods/collective-1-21-1-8-83.pw.toml"
+hash = "f96e0d2e0cb4a0dbddb464822e526b82130ebd0587a05dc4fc489cea4b16f308"
+metafile = true
+
+[[files]]
+file = "mods/copycats-3-0-9-mc-1-21-1-neoforge.pw.toml"
+hash = "20a98d31041eb256af8a65c5e84180c1f48d6003362de0e55f20686307ba0b01"
+metafile = true
+
+[[files]]
 file = "mods/create-1-21-1-6-0-10.pw.toml"
 hash = "a66321e6ad556cedddd6a319da9a8845813f9e184ae3af4d80bc353a6c2bc873"
 metafile = true
@@ -282,6 +320,16 @@ metafile = true
 [[files]]
 file = "mods/createaddition-1-5-9.pw.toml"
 hash = "1e3346727a8e2ff18d5053324736d3b0baeccd1f67ef652b2f6b1eecdf4c0187"
+metafile = true
+
+[[files]]
+file = "mods/createdeco-2-1-3.pw.toml"
+hash = "ea74742af75d6360898a997e93c160dc414e76c93b253110614bc30b341b5cfe"
+metafile = true
+
+[[files]]
+file = "mods/cyclepaintings-1-21-1-5-0.pw.toml"
+hash = "898c5ef959853b80741b62fad3b4e3af4fc4fb10de33b0df748c85a74435ff24"
 metafile = true
 
 [[files]]
@@ -335,6 +383,11 @@ hash = "717515f632e042dfd80389b58c00d03b53bad29a76a50d5de41973d777567d13"
 metafile = true
 
 [[files]]
+file = "mods/fusion-1-3-16-neoforge-mc1-21-1.pw.toml"
+hash = "7093069540a3d85b1c15ee350c7624c1f33d16aca91086318d6022b48d27a842"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast-neoforge-1-6-7-1-21-1.pw.toml"
 hash = "b8146bb706c4c13149d682b4b3b07bec837ed893773a5df9e6717b62699e6dc4"
 metafile = true
@@ -370,6 +423,31 @@ hash = "571f1a5a8d2174e0a947a61431d225232acc535a0a0c430ce0232822cb2a90c3"
 metafile = true
 
 [[files]]
+file = "mods/mcw-doors-1-1-5-mc1-21-1neoforge.pw.toml"
+hash = "19c01ff083ac1b1737ef596600bb077ca832d8cab06fcec90ac8485892efaf69"
+metafile = true
+
+[[files]]
+file = "mods/mcw-furniture-3-4-1-mc1-21-1neoforge.pw.toml"
+hash = "b10aa4e10ba1873ad3148efec7de00ffad3c88e35d17b156cf92b94f94dc1e43"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwwindows-2-4-2-mc1-21-1neoforge.pw.toml"
+hash = "63496f359cf036f852fdbae87d380868bc6d896c0da29d9e90031a749811c673"
+metafile = true
+
+[[files]]
+file = "mods/mcw-paintings-1-1-0-mc1-21-1neoforge.pw.toml"
+hash = "1c8e691dea1be1255e427e50aec4c8eba81c0abed6d7b226d732e79b71e9ce6e"
+metafile = true
+
+[[files]]
+file = "mods/mcw-roofs-2-3-2-mc1-21-1neoforge.pw.toml"
+hash = "3fda38af70b19f9eceb4e087527f368fb5a1795487999883056e9ab6abd61a6d"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-neoforge-5-25-1-mc1-21-1.pw.toml"
 hash = "1546dd43fa7416e9020e8ec7fbf530502ef65fe2d5b354dedd051a97e5d506c6"
 metafile = true
@@ -382,6 +460,16 @@ metafile = true
 [[files]]
 file = "mods/placebo-1-21-1-9-9-1.pw.toml"
 hash = "b184656cb298e94a89e936dde21825f3d3ad40491aa75147e323a349abe232f6"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-1-2-6-neoforge-mc1-21.pw.toml"
+hash = "88e85dc1eb74dac8ccbf5d6a895f6724e8765e512d8027987c3800d699fb0a32"
+metafile = true
+
+[[files]]
+file = "mods/rechiseledcreate-1-1-1-neoforge-mc1-21.pw.toml"
+hash = "2b69538e013a1ca97ceffd50fcf164b27b30e1b5082742f0321cf4cf8e9c44c7"
 metafile = true
 
 [[files]]
@@ -410,6 +498,16 @@ hash = "a62d6b00b50d00a1ed2d130397ebc225845d8b13ed7dd72f021113dc98922fe1"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642configlib-1-1-8-neoforge-mc1-21.pw.toml"
+hash = "5c822fdffc85e37db522f546449ea3041aed5a5616a9fddeeb522c3259f96257"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642corelib-1-1-26a-neoforge-mc1-21.pw.toml"
+hash = "8efaafcf42b1b50c9abd854f72e87e00abc4271c030064fb80f0f3effa20e211"
+metafile = true
+
+[[files]]
 file = "mods/tectonic-3-0-19-neoforge-1-21-1.pw.toml"
 hash = "c52d39b6aa9b18ecfa53033ce3aad3ce23e2a3f9610931442f2a7be5ad5e79b6"
 metafile = true
@@ -422,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/toastcontrol-1-21-1-9-0-1.pw.toml"
 hash = "c28a5bb3bae67fab939bb745fe4ee3ff7023f078fc9dc92ca2ad8ec1212fe1b7"
+metafile = true
+
+[[files]]
+file = "mods/toomanypaintings-26-08-16-1-21-neoforge.pw.toml"
+hash = "cae0fb083193a67baabe56e51b8eb2e94b57de947bbc04db87025276cfe83831"
 metafile = true
 
 [[files]]
