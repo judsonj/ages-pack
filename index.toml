@@ -322,6 +322,11 @@ hash = "c27616c646166649bf06c60dda87bcf25481d16dd49fd948246d43315bd9d465"
 metafile = true
 
 [[files]]
+file = "mods/amendments-1-21-2-2-7-neoforge.pw.toml"
+hash = "1f9521196a75b87ae5c9c8e7955f9761fa41d92e9d13660304d8df96ab24b95a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1-21-3-0-7.pw.toml"
 hash = "735afdfd92fe9a370c848f452bb4529c8cc64bd93f8ea6273791c4fb69df48d2"
 metafile = true
@@ -534,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight-1-21-1-3-8-3-neoforge.pw.toml"
 hash = "0b999c976e2147ea08e470f510dfde69a219da9b8d8a6e6912b84b52ce451c67"
+metafile = true
+
+[[files]]
+file = "mods/octo-arms-1-6-0-mc1-21-1.pw.toml"
+hash = "9aedaa992b64a623e0c8d39b8c25a4d07166a10138ec3d9a342d01e3c75988fe"
 metafile = true
 
 [[files]]
