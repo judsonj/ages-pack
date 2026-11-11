@@ -229,6 +229,50 @@ file = "kubejs/data/ages/painting_variant/the_plains.json"
 hash = "a275448bdc91130c3dd6f6153e859a56f3f1ae2761c12c9460bb2d6c417f385c"
 
 [[files]]
+file = "kubejs/data/beautify/loot_table/blocks/acacia_trellis.json"
+hash = "1d129cebc3aee712119cddf9e69865597ed18f762aa48af70840f2194c5e1e1c"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/birch_trellis.json"
+hash = "986b34f427d92e62fdd0ae36e77cc5496f0b61d49f8ffca9d71d649005484966"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/crimson_trellis.json"
+hash = "9bc78c190f97c5346e5efac10b9bd375976586fbaa0ad2cd840e5cf03f3fb9ce"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/dark_oak_trellis.json"
+hash = "78bb19d14b73ef96bb5a8686656f6859e9feb5fb849fcd8bd724bf5c797fed2e"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/hanging_pot.json"
+hash = "ea4fe58d2f60d0f8dade0f747c01be703a920818c2c1b9c3cf79d0463ed03fde"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/jungle_trellis.json"
+hash = "672b7441075b522a14c76010c7e52c1d1dea7101005203f32221cae070ff913b"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/lamp_jar.json"
+hash = "92f21c9a1da7cae4ad58f91da5e84936765c88aa72c3e6b4d15da6e28cef684c"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/mangrove_trellis.json"
+hash = "f360ad65f8c09fb3309bb4377bd6ad1f34e0e2d83da1aa191149693820fc83e8"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/oak_trellis.json"
+hash = "25b5c08d18ea847eeee2de118d1e358a168a0f93c6cbbce362029c1e373640a5"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/spruce_trellis.json"
+hash = "4493af706f533df308715f42c34f29f8be6f9382f8cd4b2579386e7ef6db20a3"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/warped_trellis.json"
+hash = "75c9adee40225b2ad7188b3a624c234f67c6bec52ba989ec05a5c0a9fc4691dd"
+
+[[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/deepslate_tin_ore.json"
 hash = "595aec304ba10b89f827335d202d4061126ec21ab69313d9cfd18756812ec950"
 
@@ -278,6 +322,11 @@ hash = "c27616c646166649bf06c60dda87bcf25481d16dd49fd948246d43315bd9d465"
 metafile = true
 
 [[files]]
+file = "mods/amendments-1-21-2-2-7-neoforge.pw.toml"
+hash = "1f9521196a75b87ae5c9c8e7955f9761fa41d92e9d13660304d8df96ab24b95a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1-21-3-0-7.pw.toml"
 hash = "735afdfd92fe9a370c848f452bb4529c8cc64bd93f8ea6273791c4fb69df48d2"
 metafile = true
@@ -288,8 +337,23 @@ hash = "b564fce6cf82663276510cc15a675c419744173ce129fcdcb533dd9d987ff869"
 metafile = true
 
 [[files]]
+file = "mods/athena-neoforge-1-21-1-4-0-6.pw.toml"
+hash = "82a03b60c21cafaa0f4f4196bbe3a2059242d7aebef02942be76e55b11ef76a7"
+metafile = true
+
+[[files]]
 file = "mods/balm-neoforge-1-21-1-21-0-55.pw.toml"
 hash = "d1cf6b18e179eefbc8f732350f59a2b67e2628c2eacdb22d8922d3c3d16ad6bb"
+metafile = true
+
+[[files]]
+file = "mods/beautify-neoforge-1-21-1-2-0-2.pw.toml"
+hash = "21d12c5f27a081c9a230977578bdac5e0f1f20bb4c9eb888f511d3b0cb297805"
+metafile = true
+
+[[files]]
+file = "mods/chipped-neoforge-1-21-1-4-0-2.pw.toml"
+hash = "eb50ce935fb39044c923e6537c0be06e9bbae1b9975e5ad1071cb3ea82eaf071"
 metafile = true
 
 [[files]]
@@ -333,8 +397,18 @@ hash = "898c5ef959853b80741b62fad3b4e3af4fc4fb10de33b0df748c85a74435ff24"
 metafile = true
 
 [[files]]
+file = "mods/design-n-decor-1-21-1-2-2b.pw.toml"
+hash = "b5ebd23d9196a53518f59bc37764b694d983d370933c99e1ba40695232e4c0ad"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons-2-4-5-b-1-21-1-fabric-neoforge.pw.toml"
 hash = "7e8d5ce35c752c39c22f1bace6b04af19e124fa33cb509be9ca0575e276b883e"
+metafile = true
+
+[[files]]
+file = "mods/dramaticdoors-neoquifab-1-21-1-3-3-2.pw.toml"
+hash = "16593f15476ef9d584366c6b971ff89ad964adc78c4cbe3a5035086437716100"
 metafile = true
 
 [[files]]
@@ -343,13 +417,18 @@ hash = "129f9a81170fe938693842eff98a82783592f7e9a51a0cb546643719dc1db03d"
 metafile = true
 
 [[files]]
+file = "mods/everycomp-1-21-2-11-57-neoforge.pw.toml"
+hash = "359d826c4749d44e874baa2ff7fcfc26538df43b97c6356181e32fbaba6fbc5c"
+metafile = true
+
+[[files]]
 file = "mods/fallingtrees-neoforge-mc1-21-0-13-2-snapshot.pw.toml"
 hash = "0a9f8909ea81eee6c21f993e4443047f602de77db7fd232c0d91cf08d04609ad"
 metafile = true
 
 [[files]]
-file = "mods/farmersdelight-1-21-1-1-2-9.pw.toml"
-hash = "742fc1c1a0930bcf729df9b4ec66a8fc1fd131034f60891bf556866f9e27b549"
+file = "mods/farmersdelight-1-21-1-1-3-4.pw.toml"
+hash = "d852597c04c0c6c6ae961eaaba6f656299619fca48052be4f0af90f318e79c93"
 metafile = true
 
 [[files]]
@@ -385,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-1-3-16-neoforge-mc1-21-1.pw.toml"
 hash = "7093069540a3d85b1c15ee350c7624c1f33d16aca91086318d6022b48d27a842"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted-neoforge-1-21-1-4-0-3.pw.toml"
+hash = "2fdaa71e34aa097f73c1733d5cd42618078c209bc17a6303171cf19060052fe6"
 metafile = true
 
 [[files]]
@@ -453,6 +537,11 @@ hash = "1546dd43fa7416e9020e8ec7fbf530502ef65fe2d5b354dedd051a97e5d506c6"
 metafile = true
 
 [[files]]
+file = "mods/moonlight-1-21-1-3-8-3-neoforge.pw.toml"
+hash = "0b999c976e2147ea08e470f510dfde69a219da9b8d8a6e6912b84b52ce451c67"
+metafile = true
+
+[[files]]
 file = "mods/pandalib-neoforge-mc1-21-0-5-2-snapshot.pw.toml"
 hash = "9f23eb3d65197fee2c77781926de94626dcd2e57195aed18e5158a6d49975975"
 metafile = true
@@ -463,6 +552,11 @@ hash = "b184656cb298e94a89e936dde21825f3d3ad40491aa75147e323a349abe232f6"
 metafile = true
 
 [[files]]
+file = "mods/platform-neoforge-1-21-1-1-4-2.pw.toml"
+hash = "b9d44f184b65c5dcc2d4cafb2c57561d7a6c13ae717b08e86b58f1da7aaa8a51"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-1-2-6-neoforge-mc1-21.pw.toml"
 hash = "88e85dc1eb74dac8ccbf5d6a895f6724e8765e512d8027987c3800d699fb0a32"
 metafile = true
@@ -470,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseledcreate-1-1-1-neoforge-mc1-21.pw.toml"
 hash = "2b69538e013a1ca97ceffd50fcf164b27b30e1b5082742f0321cf4cf8e9c44c7"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-neoforge-1-21-3-0-12.pw.toml"
+hash = "98a37613c4efdf36dc83d3b7a7bf0ef420c707f71c607707dadba2db2223798f"
 metafile = true
 
 [[files]]
@@ -508,6 +607,11 @@ hash = "8efaafcf42b1b50c9abd854f72e87e00abc4271c030064fb80f0f3effa20e211"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-1-21-1-3-8-9-neoforge.pw.toml"
+hash = "d4a9de97675efb87c2372dce0f9e2e287ec6d9b5b6e861e5ed6e35f15a31e1ea"
+metafile = true
+
+[[files]]
 file = "mods/tectonic-3-0-19-neoforge-1-21-1.pw.toml"
 hash = "c52d39b6aa9b18ecfa53033ce3aad3ce23e2a3f9610931442f2a7be5ad5e79b6"
 metafile = true
@@ -530,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot-neoforge-1-21-1-21-1-11.pw.toml"
 hash = "4925abc6626da4dafcba7f28472d5993430ca13ce6fe581926682e6a14cd25a1"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport-neoforge-1-21-1-1-2-2.pw.toml"
+hash = "10d84de58e4950eaa2d6d6350fafea963b512fa78cef818ac819f46d59506d9a"
 metafile = true
 
 [[files]]

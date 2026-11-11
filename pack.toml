@@ -1,12 +1,12 @@
 name = "The Ages Pack"
 author = "Claude & friends"
-version = "1.1.7"
+version = "1.1.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f6ff76e8c6554e403b4e8bb555c5ebf80bf73b40d9dfc0acf586a60937b71d41"
+hash = "e94cf21b32a2a306f121838de8327a214011a3ac64c3770c38578ad5228addf9"
 
 [versions]
 minecraft = "1.21.1"
