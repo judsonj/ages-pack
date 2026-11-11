@@ -322,11 +322,6 @@ hash = "c27616c646166649bf06c60dda87bcf25481d16dd49fd948246d43315bd9d465"
 metafile = true
 
 [[files]]
-file = "mods/amendments-1-21-2-2-7-neoforge.pw.toml"
-hash = "1f9521196a75b87ae5c9c8e7955f9761fa41d92e9d13660304d8df96ab24b95a"
-metafile = true
-
-[[files]]
 file = "mods/appleskin-neoforge-mc1-21-3-0-7.pw.toml"
 hash = "735afdfd92fe9a370c848f452bb4529c8cc64bd93f8ea6273791c4fb69df48d2"
 metafile = true
@@ -582,8 +577,8 @@ hash = "1c70178f64bac46aef5721be0bc50f5726f84ce945a85a71398bc6cd3ef68b8a"
 metafile = true
 
 [[files]]
-file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
-hash = "d230543a7196d4b2c9ae5165aac9122f3a0ca08883b0c171f2c3f4871b7b7e0a"
+file = "mods/sodium-neoforge-0-6-13-mc1-21-1.pw.toml"
+hash = "b258ad1521c568a650b111eaedc2c0e9dcd32d1a6f7e30c614c6f49326fe1679"
 metafile = true
 
 [[files]]
@@ -604,11 +599,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642corelib-1-1-26a-neoforge-mc1-21.pw.toml"
 hash = "8efaafcf42b1b50c9abd854f72e87e00abc4271c030064fb80f0f3effa20e211"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries-1-21-1-3-8-9-neoforge.pw.toml"
-hash = "d4a9de97675efb87c2372dce0f9e2e287ec6d9b5b6e861e5ed6e35f15a31e1ea"
 metafile = true
 
 [[files]]
