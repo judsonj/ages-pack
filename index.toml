@@ -582,8 +582,8 @@ hash = "1c70178f64bac46aef5721be0bc50f5726f84ce945a85a71398bc6cd3ef68b8a"
 metafile = true
 
 [[files]]
-file = "mods/sodium-neoforge-0-6-13-mc1-21-1.pw.toml"
-hash = "b258ad1521c568a650b111eaedc2c0e9dcd32d1a6f7e30c614c6f49326fe1679"
+file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
+hash = "d230543a7196d4b2c9ae5165aac9122f3a0ca08883b0c171f2c3f4871b7b7e0a"
 metafile = true
 
 [[files]]
