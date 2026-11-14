@@ -362,6 +362,11 @@ hash = "f96e0d2e0cb4a0dbddb464822e526b82130ebd0587a05dc4fc489cea4b16f308"
 metafile = true
 
 [[files]]
+file = "mods/connectedglass-1-1-14-neoforge-mc1-21.pw.toml"
+hash = "eea679351c37d4a65500385af75cc73dc93a468453aa9d69c878f8dd9861d996"
+metafile = true
+
+[[files]]
 file = "mods/copycats-3-0-9-mc-1-21-1-neoforge.pw.toml"
 hash = "20a98d31041eb256af8a65c5e84180c1f48d6003362de0e55f20686307ba0b01"
 metafile = true
