@@ -5,12 +5,7 @@
 	group: ""
 	icon: { id: "create:cogwheel" }
 	id: "1B475BEDC08E740C"
-	images: [
-		{ image: "ages:textures/quests/age4/banner.png", x: -1.0d, y: -18.75d, width: 16.0d, height: 4.0d, rotation: 0.0d, order: 0 }
-		{ image: "ages:textures/quests/age4/lane_maker.png", x: 0.0d, y: -8.6d, width: 18.0d, height: 1.2d, rotation: 0.0d, order: 0 }
-		{ image: "ages:textures/quests/age4/lane_hearth.png", x: 0.0d, y: 3.4d, width: 18.0d, height: 1.2d, rotation: 0.0d, order: 0 }
-		{ image: "ages:textures/quests/age4/lane_wanderer.png", x: 0.0d, y: 9.4d, width: 18.0d, height: 1.2d, rotation: 0.0d, order: 0 }
-	]
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [

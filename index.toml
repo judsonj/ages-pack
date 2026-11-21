@@ -26,11 +26,11 @@ hash = "874f053124675ac700f66af91a7a9696151b8f7aca6599845842cd41f49a934b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/age4.snbt"
-hash = "8493f62cf01912be5861db845a616c53d5a7f1d719d6389fa3a04f6119679662"
+hash = "0916a5dd632d7b101209c63b6938e024c4822b9804c8a50b0dd47786e2c31257"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/age5.snbt"
-hash = "61f12971b1f011f32d1abb3baaa4c59e561de967faf9ec34a006722a3f4f89e4"
+hash = "ca882643dbae0f0fb82aabadbd51bb3d6832a4dd155216e40f121bb7963a00c1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/age6.snbt"
@@ -54,7 +54,7 @@ hash = "36056fc83174964d5db0f61b1d8c5ce373c8ba5cec24c02bdea4dd5b0a6517ad"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "1f1498ce383fac93295b9e163b3f17233cfe0887cbba31a0cbe586ee74f2c68d"
+hash = "1e72a19cd14ed1b9db3e566bda79601bb0866b16eaf3143b12777714aeb76fd0"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/common.snbt"

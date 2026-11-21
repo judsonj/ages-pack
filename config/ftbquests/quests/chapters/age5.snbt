@@ -5,12 +5,7 @@
 	group: ""
 	icon: { id: "create:brass_ingot" }
 	id: "29E94873133BB35A"
-	images: [
-		{ image: "ages:textures/quests/age5/banner.png", x: -1.0d, y: -16.25d, width: 16.0d, height: 4.0d, rotation: 0.0d, order: 0 }
-		{ image: "ages:textures/quests/age5/lane_maker.png", x: 0.0d, y: -8.6d, width: 22.0d, height: 1.2d, rotation: 0.0d, order: 0 }
-		{ image: "ages:textures/quests/age5/lane_hearth.png", x: 0.0d, y: 2.4d, width: 22.0d, height: 1.2d, rotation: 0.0d, order: 0 }
-		{ image: "ages:textures/quests/age5/lane_wanderer.png", x: 0.0d, y: 11.4d, width: 22.0d, height: 1.2d, rotation: 0.0d, order: 0 }
-	]
+	images: [ ]
 	order_index: 5
 	quest_links: [ ]
 	quests: [
