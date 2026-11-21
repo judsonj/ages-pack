@@ -54,8 +54,8 @@
 		}
 		{
 			id: "06DE7FF3D4FB67D4"
-			x: 0d
-			y: 0.0d
+			x: 3.75d
+			y: -1.25d
 			dependencies: ["7D0BC39519E50BC5"]
 			hide_until_deps_complete: true
 			tasks: [{ id: "0CD3E669FFA7CB53", type: "item", item: { count: 1, id: "minecraft:wheat" }, count: 64L }]

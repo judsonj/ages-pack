@@ -21,10 +21,26 @@
 	chapter.794DA6D6073D6379.title: "Steel Age"
 	quest.004FE566FC037A7A.quest_desc: ["Nearly as good as iron."]
 	quest.004FE566FC037A7A.title: "Bronze Armor"
-	quest.01FD4B4C54A8D62A.quest_desc: ["Zinc is a new ore from Create. Look for pale green-grey speckles below Y=70."]
+	quest.00DACBE38BC0EF8E.quest_desc: ["The First Makers kept time by bird. A little wooden bird comes out at set times of the day and tells the house what the hour is.", "Place &6Planks&r above an &bAndesite Casing&r above a &6Clock&r in the crafting grid, in a column. Put the &bCuckoo Clock&r on a wall and give it rotation. Wait, and the bird will sing.", "Tip: it needs power to run, so connect it to a shaft."]
+	quest.00DACBE38BC0EF8E.quest_subtitle: "A clock with a bird inside."
+	quest.00DACBE38BC0EF8E.title: "Cuckoo Clock"
+	quest.01FD4B4C54A8D62A.quest_desc: ["I remember the colour of zinc: pale green, with grey flecks. The First Makers prized it, for it makes brass with copper, and brass was the metal of their best machines.", "{image:ages:textures/quests/age4/zinc.png width:160 height:80 align:center fit:true}", "Look for &6Zinc Ore&r deep underground, below about &eY=70&r, as pale green-grey speckles in stone. Mine it with an iron pickaxe or better and collect &e8&r &6Raw Zinc&r. Bring torches.", "Tip: an iron pickaxe or better is needed. Smelting zinc is next."]
+	quest.01FD4B4C54A8D62A.quest_subtitle: "A pale metal under the hills."
 	quest.01FD4B4C54A8D62A.title: "Mine Zinc"
+	quest.0201A5B1DEB033C0.quest_desc: ["More sails catch more wind. A windmill with enough sail turns faster than any water wheel. The First Makers measured their pride in sail count, and I count with them.", "{image:ages:textures/quests/age4/windmax.png width:160 height:80 align:center fit:true}", "Every &e8&r sail blocks you add give more speed, up to the bearing's limit. Keep adding sails until your goggles show no more gain.", "Tip: build it big and glue it well. Rust remembers weak glue."]
+	quest.0201A5B1DEB033C0.quest_subtitle: "The biggest sail you can raise."
+	quest.0201A5B1DEB033C0.title: "A Strong Breeze"
+	quest.0342BA857E70F4F1.quest_desc: ["Polished quartz can be cut into smooth tiles. They make a clean floor, fit for a hall that has been polished all day.", "Put a &6Polished Rose Quartz&r in a &bStonecutter&r and pick the tiles. Lay them for a floor. They look well beside brass."]
+	quest.0342BA857E70F4F1.quest_subtitle: "Pink stone, cut for floors."
+	quest.0342BA857E70F4F1.title: "Rose Quartz Tiles"
+	quest.03D9646FD3A04B0C.quest_desc: ["A machine on a moving platform only works if every block moves together. The First Makers solved that with glue. Blocks glued into a group travel as one, and nothing is left behind.", "{image:ages:textures/quests/age4/glue.png width:160 height:80 align:center fit:true}", "Craft &bSuper Glue&r from &e2&r &6Slimeballs&r, an &6Iron Sheet&r and an &6Iron Nugget&r. Hold it and select two corners of the area you want to join. Every block inside is stuck as one group.", "Tip: glue sticks only blocks that touch. Next, we put a bearing under it and spin it."]
+	quest.03D9646FD3A04B0C.quest_subtitle: "Things stuck together move together."
+	quest.03D9646FD3A04B0C.title: "Super Glue"
 	quest.046C91841CECCCD9.quest_desc: ["&eMerge:&r in old dungeon ruins you find drawings of spinning shafts and gears...\\n\\n&bCreate&r runs on &erotation&r: water wheels and windmills spin shafts, and shafts power machines. Here is a wrench to start tinkering."]
 	quest.046C91841CECCCD9.title: "Curious Machinery"
+	quest.04918D0FC9B4F50F.quest_desc: ["Before the great wheel, the First Makers turned things by hand. A &bHand Crank&r is that memory in wood and alloy. Hold it down and it spins whatever is joined to it.", "Craft one from &e3&r &6planks&r in a row with an &6Andesite Alloy&r under the end. Place it, attach a &bShaft&r or &bCogwheel&r, then hold use on it. It gets you started when no water or wind is near.", "Tip: it spins only while you hold it, and it makes you hungry. A water wheel will take over."]
+	quest.04918D0FC9B4F50F.quest_subtitle: "Your own arm is the oldest engine."
+	quest.04918D0FC9B4F50F.title: "Hand Crank"
 	quest.04A2B047EB8744CF.quest_desc: ["&eMerge:&r build a train that hauls your steel between two bases."]
 	quest.04A2B047EB8744CF.title: "Heavy Rail"
 	quest.06DE7FF3D4FB67D4.quest_desc: ["Scale up the farm."]
@@ -35,15 +51,35 @@
 	quest.0749C65C25F08EDE.title: "Stronghold"
 	quest.076A5AF7A2BD903F.quest_desc: ["&bTFMG&r (The Factory Must Grow) bakes coal into coke, a hotter fuel."]
 	quest.076A5AF7A2BD903F.title: "Coke Oven"
+	quest.08E46A606A440425.quest_desc: ["A white sail is plain. The First Makers dyed theirs, so a valley of windmills looked like a field of flowers. Dye changes only the colour, and the sail works the same.", "Hold &6Red Dye&r and right-click a &bSail&r in the world. It turns red. Check the recipe viewer for other ways to colour one.", "Tip: mix colours for a striped windmill. It makes no difference to the power."]
+	quest.08E46A606A440425.quest_subtitle: "Even the wind likes colour."
+	quest.08E46A606A440425.title: "Sail Colours"
 	quest.0A2241432084E65F.quest_desc: ["Climb a mountain peak and look out. Check this off at the top."]
 	quest.0A2241432084E65F.title: "Spyglass Summit"
+	quest.0AC913D1A4EBFB2E.quest_desc: ["Belts, funnels and tunnels all use &6Dried Kelp&r. Odd, I agree, but the First Makers found it tough and cheap. Kelp grows in the sea, and you will need a little.", "Find &6Kelp&r in a warm or cold ocean and pick it. Smelt it in a furnace, a smoker or a campfire to get &6Dried Kelp&r. Gather &e6&r.", "&cKelp grows only underwater, so you may need a boat or a swim.&r Tip: plant some near your base, so you never run short."]
+	quest.0AC913D1A4EBFB2E.quest_subtitle: "Belts are made of seaweed. I made no rule."
+	quest.0AC913D1A4EBFB2E.title: "Dried Kelp"
 	quest.0B9F12FC3A0D76DB.quest_desc: ["&6Gate:&r the &eIron Age&r opens. The &dSeal of Iron&r unlocks iron tools and armor.\\n\\nYour backpack grows to &6Copper&r, and here is your first &bWaystone&r: place it at home and teleport back from any other waystone."]
 	quest.0B9F12FC3A0D76DB.quest_subtitle: "Age Gate"
 	quest.0B9F12FC3A0D76DB.title: "Age of Bronze"
-	quest.0CAA9C9CE45D42B2.quest_desc: ["Grind wheat to flour for bread and dough."]
+	quest.0CAA9C9CE45D42B2.quest_desc: ["*whirr* I know that sound: the First Makers' millstone, grinding wheat all night while they slept. A &bMillstone&r crushes things into powder, and flour is only the first.", "{image:ages:textures/quests/age4/flour.png width:160 height:80 align:center fit:true}", "Craft one from a &6Cogwheel&r on top of a &6Casing&r on top of a &6stone block&r. Place it, give it rotation from a shaft, and drop &6Wheat&r in the top. It grinds into &6Wheat Flour&r you pick up below.", "Tip: it grinds many things, from bones to flowers. Check the recipe viewer for the list. Dough is next."]
+	quest.0CAA9C9CE45D42B2.quest_subtitle: "The wheel grinds so your arms can rest."
 	quest.0CAA9C9CE45D42B2.title: "Millstone Flour"
-	quest.0D08AA315C671A42.quest_desc: ["Sails around a windmill bearing make a mill. Up high, it spins in any weather."]
+	quest.0D08AA315C671A42.quest_desc: ["A water wheel needs water. The &bWindmill&r only needs air, which is everywhere. The First Makers raised windmills on every hill, and I remember them turning in rows.", "{image:ages:textures/quests/age4/windmill.png width:160 height:80 align:center fit:true}", "Craft a &bWindmill Bearing&r from a &6wooden slab&r, a &6stone block&r and a &6Shaft&r. Build a frame against its front face and add &bSails&r: one craft of &6wool&r, &e2&r &6sticks&r and &6Andesite Alloy&r makes &e2&r sails. Build at least &e8&r sail blocks. Place it high, with open air around.", "Tip: sails turn only with open air around them, so keep trees and walls clear. Zinc is next."]
+	quest.0D08AA315C671A42.quest_subtitle: "Wind has no river to find."
 	quest.0D08AA315C671A42.title: "Windmill on the Hill"
+	quest.0D9CBD30091ED0CF.quest_desc: ["A &bRope Pulley&r lowers a glued build on a rope, and winds it back up. The First Makers lowered buckets into wells with it, and sometimes miners into the deep.", "Craft one from a &6Casing&r over a piece of &6wool&r and an &6Iron Sheet&r. Place it, feed it rotation, put a glued build under it and right-click to start. It moves down a rope you can see, as far as you want.", "Tip: reverse the rotation to bring it back up. A lift is a pulley with a platform."]
+	quest.0D9CBD30091ED0CF.quest_subtitle: "A build on a rope, going up and down."
+	quest.0D9CBD30091ED0CF.title: "Rope Pulley"
+	quest.0F385B60C3E84008.quest_desc: ["Liquid does not climb by itself. A &bMechanical Pump&r gives it a push, and a turning shaft gives the pump a push in turn.", "{image:ages:textures/quests/age5/pump.png width:160 height:80 align:center fit:true}", "Craft one from a &6Cogwheel&r and a &6Fluid Pipe&r together in the grid. Place it in a line of pipe and give it rotation. Turn the shaft the other way, and the pump pushes the other way.", "Tip: the arrow on the pump shows which way the liquid goes. Next, we find water."]
+	quest.0F385B60C3E84008.quest_subtitle: "Pressure from a turning shaft."
+	quest.0F385B60C3E84008.title: "Mechanical Pump"
+	quest.0F3E56A4E6199686.quest_desc: ["Alone, a gear is a toy. Inside a &6Casing&r it becomes a machine. The First Makers built every press and mixer in one, and I have missed the sound of hands making them.", "{image:ages:textures/quests/age4/casing.png width:160 height:80 align:center fit:true}", "Hold &6Andesite Alloy&r and right-click a &6stripped log&r or stripped wood block. The block turns into &6Andesite Casing&r. Each casing uses up one alloy and one log. Strip a log first with any axe.", "&cThe recipe viewer shows no crafting grid for this. It is done in the world, by hand.&r Make one, and the quest is done. Next, we make something turn."]
+	quest.0F3E56A4E6199686.quest_subtitle: "Every machine needs a house."
+	quest.0F3E56A4E6199686.title: "Andesite Casing"
+	quest.0F9383ED9E5F3B7A.quest_desc: ["Water and fire make steam. Steam makes the greatest turning force in the Brass Age. The First Makers built engines like this to drive their halls.", "{image:ages:textures/quests/age5/steam.png width:160 height:80 align:center fit:true}", "Build a boiler: &e4&r &bFluid Tanks&r joined into one, kept full of water by your pump, with a lit and fed &bBlaze Burner&r under it. Craft a &bSteam Engine&r from a &6Gold Sheet&r above an &6Andesite Alloy&r above a &6Block of Copper&r. Place it on the tank's side, then click the engine with a &6Shaft&r.", "Tip: the boiler needs both water and heat to make pressure. Watch it with your goggles."]
+	quest.0F9383ED9E5F3B7A.quest_subtitle: "A fire under a tank of water."
+	quest.0F9383ED9E5F3B7A.title: "The Powerhouse"
 	quest.10447A5A0013D0B6.quest_desc: ["Mill Frame + Seal of the Spark. Rolls ingots into wire."]
 	quest.10447A5A0013D0B6.title: "Rolling Mill"
 	quest.1073D9137EF6DA74.quest_desc: ["&eMerge:&r electricity runs a Create machine, and the Engine Room from the Steel Age keeps the lights on. Check off when a machine runs on electricity."]
@@ -54,69 +90,188 @@
 	quest.117E309264C8F8DC.title: "Chocolate Pie"
 	quest.11EB5FAB9CB27E10.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.11EB5FAB9CB27E10.title: "Pumpkin Soup"
+	quest.122315E5CD5B4971.quest_desc: ["A pump with its open end in a pond can draw water out of it, This is how the First Makers made paper and pulp in their halls.", "{image:ages:textures/quests/age5/water.png width:160 height:80 align:center fit:true}", "Place a &bMechanical Pump&r with a &bFluid Pipe&r whose open end sits in a pool of water. Point the pump's arrow away from the water and spin it, and the pipe fills. You can also tap the pipe into a &bBasin&r.", "Tip: keep the pump spinning while you draw. Next, we pour what we have drawn."]
+	quest.122315E5CD5B4971.quest_subtitle: "Draw water out of a pond."
+	quest.122315E5CD5B4971.title: "Puddle Collector"
+	quest.12AFF54CF6C0697C.quest_desc: ["Copper turns green with age, and it is lovely. A stonecutter makes tiles and scaffolding from it, and both are cheap.", "Put &e2&r &6Copper Ingots&r in a &bStonecutter&r and cut a &6Copper Scaffolding&r from one and a &6Copper Tiles&r block from the other. Place them in your build and watch them weather over the days.", "Tip: leave them in the rain if you like the green colour."]
+	quest.12AFF54CF6C0697C.quest_subtitle: "Copper, cut for building."
+	quest.12AFF54CF6C0697C.title: "Copper Decor"
 	quest.12C27A6318C45E1B.quest_desc: ["Ride a train through a tunnel you dug."]
 	quest.12C27A6318C45E1B.title: "Through the Mountain"
-	quest.13697279C2E66E30.quest_desc: ["Obsidian frame, flint and steel. Bring food and armor."]
+	quest.12FEC58F1FF25C23.quest_desc: ["Raw zinc is only the start. Heat gives you a bright bar you can use. Smelting gives you one ingot for every raw piece.", "Put &6Raw Zinc&r in a furnace with some fuel, and take the &6Zinc Ingot&r. Zinc ingots will go with copper to make brass, when the Brass Age begins.", "Tip: do not try to crush or wash raw zinc yet. That needs a wheel you have not met."]
+	quest.12FEC58F1FF25C23.quest_subtitle: "From speckle to shine."
+	quest.12FEC58F1FF25C23.title: "Zinc Ingot"
+	quest.13697279C2E66E30.quest_desc: ["I know this heat, young Maker. It reminds me of the old furnaces. Past a frame of &6Obsidian&r lies a second world, hot and dark, and it holds what the next machines need: quartz and blaze fire.", "Build a frame of &e10&r &6Obsidian&r, four wide and five tall, with the corners left empty. Light the inside with &6Flint and Steel&r and step through. Bring food, a sword, armour and a stack of &6Cobblestone&r to block lava.", "Tip: obsidian forms where water meets a still lava pool, and a diamond pickaxe mines it. Look before every step down there. Next, we find quartz."]
+	quest.13697279C2E66E30.quest_subtitle: "A second world, full of fire."
 	quest.13697279C2E66E30.title: "Into the Nether"
-	quest.1371453DC1ED0B74.quest_desc: ["Presses ingots into sheets."]
+	quest.1371453DC1ED0B74.quest_desc: ["*clang* There it is. The press made the First Makers' plates, and every plate became a roof, a pipe, a tool. Anything that can be flattened can be pressed.", "{image:ages:textures/quests/age4/press.png width:160 height:80 align:center fit:true}", "Craft a &bMechanical Press&r with a &6Shaft&r on top, a &6Casing&r in the middle and an &6Iron Block&r at the bottom. &cThe iron block is nine ingots, which is the usual first wall.&r Place it over a &bDepot&r, feed it rotation from the side, and set an &6Iron Ingot&r on the depot. The press comes down and makes an &6Iron Sheet&r.", "Tip: it presses once for every item you drop on the depot. You will want many sheets soon."]
+	quest.1371453DC1ED0B74.quest_subtitle: "Flat is a shape too."
 	quest.1371453DC1ED0B74.title: "Mechanical Press"
-	quest.13EDA76AF227D376.quest_desc: ["&6Gate:&r the &eSteel Age&r. Diamond backpack and three more waystones."]
+	quest.13EDA76AF227D376.quest_desc: ["&6Gate:&r the &eSteel Age&r. You have made brass, tubes, arms and a factory floor, and a line that runs by itself. The old workshop gleams again.", "Hold &e8&r &6Brass Sheets&r as proof that your brass line works. They are pressed brass ingots from your heated mixer. Your reward is the &dSeal of Steel&r, the next backpack upgrade, three &bWaystones&r and a Rare bag.", "Tip: take your time. The next age builds roads of iron, and the trains are waiting."]
 	quest.13EDA76AF227D376.quest_subtitle: "Age Gate"
 	quest.13EDA76AF227D376.title: "Gleaming"
-	quest.1544D738FF66BACB.quest_desc: ["&bSlice & Dice&r: the Slicer uses a Farmer's Delight knife automatically."]
+	quest.1544D738FF66BACB.quest_desc: ["The &bSlicer&r from &bSlice & Dice&r holds a knife and uses it by itself when it is turned. Food that needs cutting, such as cakes and pies, gets sliced without your hand.", "Craft one from a &6Cogwheel&r on a &6Casing&r on a &6Turntable&r. A turntable is a &6shaft&r under a &6wooden slab&r. Place it, give it rotation and hold a &bFarmer's Delight&r knife in it.", "Tip: use it with a mixer and a belt to build a little kitchen. The kitchen log is waiting."]
+	quest.1544D738FF66BACB.quest_subtitle: "A knife that works while you rest."
 	quest.1544D738FF66BACB.title: "Kitchen Automation"
+	quest.161D476D26599E20.quest_desc: ["A deployer needs a hand, and a hand needs fingers. The First Makers made theirs from brass, because brass is gentle enough to hold an egg.", "In the crafting grid, set an &6Andesite Alloy&r in the top middle, three &6Brass Sheets&r in the middle row, and one &6Brass Sheet&r in the bottom middle. You get one &6Brass Hand&r.", "Tip: that pattern is the shape of a hand. Next, we give it a machine to live in."]
+	quest.161D476D26599E20.quest_subtitle: "Fingers that never tire."
+	quest.161D476D26599E20.title: "Brass Hand"
+	quest.173881898B49734A.quest_desc: ["Brass is not only for machines. Cut on a stonecutter, it makes scaffolding to climb on and ladders to climb up. Both look handsome against a dark wall.", "Put &e2&r &6Brass Ingots&r in a &bStonecutter&r and cut a &6Brass Scaffolding&r from one and a &6Brass Ladder&r from the other. Place them on a tall build and climb to the top.", "Tip: brass decor is a good way to show off a workshop."]
+	quest.173881898B49734A.quest_subtitle: "Brass, cut for building."
+	quest.173881898B49734A.title: "Brass Decor"
 	quest.17417239150B9BF0.quest_desc: ["Create trains run on these."]
 	quest.17417239150B9BF0.title: "Train Track"
 	quest.186EB01559314EC0.quest_desc: ["Right-click a villager with a job to trade."]
 	quest.186EB01559314EC0.title: "Trade Once"
 	quest.18BC7A20FF62992C.quest_desc: ["Electricity back into rotation, anywhere, no water needed."]
 	quest.18BC7A20FF62992C.title: "Electric Motor"
+	quest.194DDFB145FAE01C.quest_desc: ["Put a glued build in a minecart and it can ride a track. The &bCart Assembler&r makes that happen, and the First Makers were fond of carts, as I remember.", "Craft one from &e2&r &6Andesite Alloy&r, &e2&r &6logs&r and a pinch of &6redstone dust&r. Place it in the track like a rail, set a minecart on it, and glue your build above. A redstone signal makes the cart carry the build away.", "Tip: track and a lever make a small train. Real trains come later."]
+	quest.194DDFB145FAE01C.quest_subtitle: "A little cart that carries a big idea."
+	quest.194DDFB145FAE01C.title: "Cart Assembler"
+	quest.196C040CF09C0305.quest_desc: ["Plain quartz does not carry current. Rose quartz does, and its pink glow is the first sign of a machine's brain.", "Place &e1&r &6Nether Quartz&r and &e8&r &6Redstone Dust&r in the crafting grid, in any order. That fills all nine slots. You get one &6Rose Quartz&r.", "Tip: a stack of redstone goes quickly, so mine some. Next, we make something to polish it with."]
+	quest.196C040CF09C0305.quest_subtitle: "Quartz that remembers the red dust."
+	quest.196C040CF09C0305.title: "Rose Quartz"
+	quest.1A677A3CCBC4091D.quest_desc: ["Sometimes you want a machine to rest. A &bClutch&r sits on a shaft and cuts the turning off when it gets a redstone signal. When the signal stops, the turning flows again.", "Craft it from a &6Casing&r, a &6Shaft&r and some &6redstone dust&r. Put it in the middle of a shaft line, then power it with a lever or button. The shaft beyond it stops. The shaft before it keeps turning.", "Tip: a stopped machine uses no stress. Use clutches to switch off parts of a big build."]
+	quest.1A677A3CCBC4091D.quest_subtitle: "A switch for the turning."
+	quest.1A677A3CCBC4091D.title: "Clutch"
+	quest.1B22801D160FBE46.quest_desc: ["The First Makers sent parcels long before they sent trains. A parcel is cardboard, and cardboard begins as a soft grey paste called &6Pulp&r.", "Place a &bBasin&r under your &bMechanical Mixer&r. Add &e4&r plant scraps, such as &6Sugar Cane&r, &6Bamboo&r or &6Saplings&r, and &e250&r mB of &6water&r from your pump. Run the mixer. It makes &6Pulp&r.", "Tip: the water comes by pipe, so build the pump first. Next, we press it flat."]
+	quest.1B22801D160FBE46.quest_subtitle: "Soft plant scraps, ground into paste."
+	quest.1B22801D160FBE46.title: "Cardboard Pulp"
 	quest.1CDACF83DEEB34E8.quest_desc: ["&eMerge:&r your bronze pickaxe and mining know-how. Bring back 16 raw iron."]
 	quest.1CDACF83DEEB34E8.title: "Deep Prospector"
 	quest.1CE4BD284B220D34.quest_desc: ["&eMerge:&r steel and fuel make a real engine."]
 	quest.1CE4BD284B220D34.title: "Engine Room"
+	quest.1CF8600749C3C70F.quest_desc: ["A plain chute lets everything fall. This one has a tube in it, so it only lets through the item you choose.", "{image:ages:textures/quests/age5/smartchute.png width:160 height:80 align:center fit:true}", "Craft one &bSmart Chute&r from a &6Brass Sheet&r, a &bChute&r and an &6Electron Tube&r, in a column. Set the filter slot to the item you want to pass.", "Tip: it is faster than a hopper when you want to keep one thing out of a mixed pile."]
+	quest.1CF8600749C3C70F.quest_subtitle: "A chute that knows what it wants."
+	quest.1CF8600749C3C70F.title: "Smart Chute"
+	quest.1D3C667ED16DC0F9.quest_desc: ["The opposite of a spout. Put a full bucket on a drain and the liquid waits inside until a pipe draws it out. It is a tidy way to get milk into a pipe system.", "{image:ages:textures/quests/age5/drain.png width:160 height:80 align:center fit:true}", "Place &6Iron Bars&r above a &bCopper Casing&r in the crafting grid. Send a full &6Milk Bucket&r onto the &bItem Drain&r from the side, on a belt or from a funnel, and watch it empty. The milk waits inside until a pump pulls it into a pipe.", "Tip: a drain also empties potions and other bottles. Next, we make something sweet."]
+	quest.1D3C667ED16DC0F9.quest_subtitle: "It empties what you place on it."
+	quest.1D3C667ED16DC0F9.title: "Item Drain"
+	quest.1FC4CD155113EB03.quest_desc: ["Shafts carry turning. Pipes carry liquid. A pipe does the same job for water that a shaft does for a wheel.", "Press &e2&r &6Copper Ingots&r into &6Copper Sheets&r with your press. Then set a sheet, a third &6Copper Ingot&r and the second sheet side by side in the crafting grid. You get &e4&r pipes.", "Tip: a pipe's open end spills liquid on the ground, so do not leave one pointing at your feet."]
+	quest.1FC4CD155113EB03.quest_subtitle: "A road for water."
+	quest.1FC4CD155113EB03.title: "Fluid Pipe"
+	quest.20094F2CE4613330.quest_desc: ["A &bLarge Cogwheel&r is the little cog's older, calmer sibling. It turns at half the speed of a small cog and pushes with double the force. I remember the First Makers' biggest ones, taller than a house.", "Craft one from a &6Shaft&r and &e2&r &6planks&r, or put a plank on a &6Cogwheel&r. Place it so it meets a small cog. Two large cogs can also meet at a right angle, to turn a corner.", "Tip: a large cog must sit on the same axis as a shaft. Keep it on its shaft."]
+	quest.20094F2CE4613330.quest_subtitle: "Twice the width, half the hurry."
+	quest.20094F2CE4613330.title: "Large Cogwheel"
+	quest.20A69BE1FF020121.quest_desc: ["A lamp that remembers being switched on. It sits well in a tidy corner of a workshop.", "Place &e1&r &6Polished Rose Quartz&r, &e1&r &6Redstone Dust&r and &e1&r &6Zinc Ingot&r together in the crafting grid, in any order. It lights on a redstone signal and stays lit after the signal ends, until a lamp next to it is switched on."]
+	quest.20A69BE1FF020121.quest_subtitle: "A pink glow for a workshop wall."
+	quest.20A69BE1FF020121.title: "Rose Quartz Lamp"
 	quest.20BC1DE9290ABEE6.quest_desc: ["Give the train a schedule so it runs on its own."]
 	quest.20BC1DE9290ABEE6.title: "Two-Station Route"
 	quest.20D3A66FB1E630A6.quest_desc: ["A place to sleep and a place to keep things. That is a base."]
 	quest.20D3A66FB1E630A6.title: "Bed & Chest"
-	quest.20DC81E9FCFFA408.quest_desc: ["Andesite + iron nuggets + the Seal. The bones of every Create machine."]
+	quest.20DC81E9FCFFA408.quest_desc: ["*whirr* The gears turn again, young Maker. I drove the First Makers' great wheel, and every part of it began as &6Andesite Alloy&r: stone and iron blended into something tougher than either.", "Set two &6Andesite&r and two &6Iron Nuggets&r in a crafting grid, in the diagonal pattern the recipe viewer shows. Keep your &dSeal of the Kinetic Age&r in the grid too. It is never used up. Make &e4&r alloy.", "Smelt an old iron tool or ingot for nuggets. Zinc nuggets work in their place once you find zinc. Next, we turn the alloy into a house for machines."]
+	quest.20DC81E9FCFFA408.quest_subtitle: "The first thing the Makers learned to blend."
 	quest.20DC81E9FCFFA408.title: "Andesite Alloy"
 	quest.20DD4016D9C862DD.quest_desc: ["Tin ore is pale grey-speckled stone, a bit deeper than copper (look below Y=40). Needs at least a stone pickaxe."]
 	quest.20DD4016D9C862DD.title: "Find Tin"
-	quest.2227FE9F824CE158.quest_desc: ["&eMerge:&r copper + zinc in a Mixer on a &cheated&r basin. Heat? A Blaze Burner... you need the &dSeal of Brass&r for that. Finish the Gate first, then come back."]
+	quest.2227FE9F824CE158.quest_desc: ["Brass is the metal I love best. It is soft enough to shape and strong enough to last a thousand winters. It is made of copper and zinc, melted together.", "{image:ages:textures/quests/age5/brass.png width:160 height:80 align:center fit:true}", "Smelt your raw zinc into a &6Zinc Ingot&r first. Then set a &bBasin&r on top of your &bBlaze Burner&r and a &bMechanical Mixer&r above the basin. Drop one &6Copper Ingot&r and one &6Zinc Ingot&r into the basin and run the mixer. Out come &e2&r &6Brass Ingots&r.", "&cThe basin must be heated. The burner goes right under it, and you feed it a log or coal so it glows.&r Next, we press brass into sheets."]
+	quest.2227FE9F824CE158.quest_subtitle: "Two soft metals, one fire."
 	quest.2227FE9F824CE158.title: "Brass Dreams"
-	quest.2458429906C9AA2B.quest_desc: ["&eMerge:&r automate one item from raw material to finished product without touching it. Check off when it runs."]
+	quest.235F4E6B2292F7AF.quest_desc: ["Goggles tell you a number. A &bSpeedometer&r tells the whole workshop. It shows a dial next to a shaft, so anyone who walks by knows if the machine is in a hurry.", "Craft one from a &6Casing&r and a &6Compass&r. Place it against a shaft, and it reads the speed in rotations per minute, with a needle that swings. The faster the wheel, the further the needle goes.", "Tip: a speedometer turns into a stressometer with a click in the crafting grid, and back again. The stressometer is next."]
+	quest.235F4E6B2292F7AF.quest_subtitle: "A dial that says how fast."
+	quest.235F4E6B2292F7AF.title: "Speedometer"
+	quest.2458429906C9AA2B.quest_desc: ["&eMerge:&r a line that makes parts by itself. The First Makers did not carry parts around. They set up a floor, fed it iron and gold, and let it run all night.", "{image:ages:textures/quests/age5/factory.png width:160 height:80 align:center fit:true}", "Build a line where an &bArm&r feeds your deployers and your belt loop, and the line makes &6Precision Mechanisms&r on its own. Gather &e4&r in your inventory.", "Tip: four is proof the line keeps working, not a one-off. Set up a chest to catch the output. Next, we finish the age."]
+	quest.2458429906C9AA2B.quest_subtitle: "Where the parts make themselves."
 	quest.2458429906C9AA2B.title: "The Factory Floor"
-	quest.272200C823A4E94D.quest_desc: ["Put harvesters on a moving contraption and they reap as they pass."]
-	quest.272200C823A4E94D.title: "Automated Harvest"
+	quest.24E751FF0F9398D8.quest_desc: ["A brass tunnel covers a belt, as the andesite one did, and it can sort. Items go where the filter says, and the rest carry on.", "Place an &6Electron Tube&r over &e2&r &6Brass Ingots&r over &e2&r &6Dried Kelp&r in the crafting grid, so the tube sits above the ingots. Set it over a belt and put filters in the slots on its sides.", "Tip: a row of tunnels makes a tidy sorter."]
+	quest.24E751FF0F9398D8.quest_subtitle: "A tunnel that splits the line."
+	quest.24E751FF0F9398D8.title: "Brass Tunnel"
+	quest.250852A158D724B9.quest_desc: ["A fan with water in front of it washes flour into &6Dough&r. The First Makers made a thousand loaves a day this way, and I like to hear the story.", "Place a &bFan&r so it blows through &6water&r. Throw &6Wheat Flour&r into the airstream, and catch the dough in a basin or on the ground at the far end.", "Tip: dough is not bread yet. It needs fire, and fire is next."]
+	quest.250852A158D724B9.quest_subtitle: "Flour and water: the oldest recipe I know."
+	quest.250852A158D724B9.title: "Wet Flour"
+	quest.25E9FA203F786A59.quest_desc: ["Andesite funnels take what is nearest. Brass ones pick. Hand one a filter and it passes only that item.", "{image:ages:textures/quests/age5/bfunnel.png width:160 height:80 align:center fit:true}", "Place an &6Electron Tube&r above a &6Brass Ingot&r above &6Dried Kelp&r in the crafting grid, in a column. Put the &bBrass Funnel&r on a belt or a chest and set its filter slot.", "Tip: a funnel can pull out of a chest as well as push into one. Next, a tunnel that sorts."]
+	quest.25E9FA203F786A59.quest_subtitle: "A funnel with a mind of its own."
+	quest.25E9FA203F786A59.title: "Brass Funnel"
+	quest.267D7529919071FE.quest_desc: ["A &6Sail Frame&r is a sail with no wool on it. It still catches wind, and it saves you a sheep. The First Makers used frames for the parts of the windmill that stay in shade.", "Put a white sail in the crafting grid alone and you get a frame. Put a frame in alone, and you get a sail back. Nothing is lost either way.", "Tip: frames and sails both count toward windmill strength."]
+	quest.267D7529919071FE.quest_subtitle: "A sail with no cloth, and a little wind."
+	quest.267D7529919071FE.title: "Sail Frame"
+	quest.272200C823A4E94D.quest_desc: ["Putting a harvester on a moving build is the First Makers' trick for feeding a whole village. It cuts any ripe crop it touches and leaves the rest for another day.", "{image:ages:textures/quests/age4/harvester.png width:160 height:80 align:center fit:true}", "Craft a &bMechanical Harvester&r from &e4&r &6Andesite Alloy&r, &e2&r &6Iron Sheets&r and a &6Casing&r. Place it facing a crop field. Alone it does nothing. It needs to move, and that comes after you learn to glue things.", "Tip: only fully grown crops are cut, so it never wastes a sapling."]
+	quest.272200C823A4E94D.quest_subtitle: "A scythe that remembers."
+	quest.272200C823A4E94D.title: "Mechanical Harvester"
+	quest.2728033B3A3B1410.quest_desc: ["A press needs a place to put the thing it presses. A &bDepot&r is a small shelf that holds one item still while a machine works on it. The First Makers called it their anvil table.", "{image:ages:textures/quests/age4/depot.png width:160 height:80 align:center fit:true}", "Craft one from a &6Casing&r and a piece of &6Andesite Alloy&r. Place it and right-click it with an item to set the item down. Right-click it empty-handed to take the item back.", "Tip: machines above it, such as a press, work on whatever sits on it. Press next."]
+	quest.2728033B3A3B1410.quest_subtitle: "A small table where machines can work."
+	quest.2728033B3A3B1410.title: "Depot"
 	quest.27A0E66316F57661.quest_desc: ["Press &eM&r for the world map and &eB&r to add a waypoint. Mark your spawn so you can always find home."]
 	quest.27A0E66316F57661.title: "Where Am I?"
 	quest.2965852F4C828EE1.quest_desc: ["A full set of stone tools."]
 	quest.2965852F4C828EE1.title: "Stone Kit"
 	quest.29AD346733AC548F.quest_desc: ["Villages have food, beds and people to trade with."]
 	quest.29AD346733AC548F.title: "Find a Village"
+	quest.29E67B84662C832C.quest_desc: ["A stock link joins a packager, and the vault it sits against, to the network, so a shop or a worker anywhere on it can ask for what is stored.", "Craft a &bStock Link&r from a &6Transmitter&r above an &bItem Vault&r. Put the &bStock Link&r on a &bPackager&r that sits against your vault.", "Tip: a network needs at least one stock link before it can do anything."]
+	quest.29E67B84662C832C.quest_subtitle: "A vault that can hear you."
+	quest.29E67B84662C832C.title: "Stock Link"
 	quest.2A8B308A7A3C8095.quest_desc: ["Break grass for seeds, hoe some dirt near water, and plant."]
 	quest.2A8B308A7A3C8095.title: "Plant Wheat"
+	quest.2B43085D82ED027E.quest_desc: ["A chest holds a small pile. A vault holds a mountain. It is a good place for a great many items, and stacks of vaults make one big store.", "Place a &6Wooden Barrel&r between two &6Iron Sheets&r in the crafting grid, in a column. Stack vaults to make a larger storehouse.", "Tip: a vault can be fed and emptied by funnels and belts."]
+	quest.2B43085D82ED027E.quest_subtitle: "A strongroom for your stacks."
+	quest.2B43085D82ED027E.title: "Item Vault"
+	quest.2B5DD26AD9F6C7B5.quest_desc: ["The First Makers loved a good wind. A fan does more than move air. What the air passes through can change: it can wash it, bake it, even melt it. I have missed this sound.", "{image:ages:textures/quests/age4/fan.png width:160 height:80 align:center fit:true}", "Craft an &bEncased Fan&r from a &6Shaft&r on top of a &6Casing&r on top of a &6Propeller&r. The propeller needs &6Iron Sheets&r and alloy. Place it with the propeller facing out, and give it rotation. A fan always blows in one direction. Spin it the other way and it sucks.", "Tip: water and fire in front of it change the air."]
+	quest.2B5DD26AD9F6C7B5.quest_subtitle: "Wind that does a little magic."
+	quest.2B5DD26AD9F6C7B5.title: "Encased Fan"
 	quest.2BCC6D221C80A048.quest_desc: ["Link three far-apart bases by train, each with a waystone. With Distant Horizons on, climb a peak and see the whole line."]
 	quest.2BCC6D221C80A048.title: "The Grand Line"
+	quest.2C6D30CAAACFA175.quest_desc: ["Every machine takes a share of the turning, and every power source has only so much to give. That share is called &bstress&r. Load too many machines on one wheel, and it jams.", "Put the speedometer in the crafting grid to get a &bStressometer&r. Place it on a shaft, then look at it with your goggles. The bar shows how much of the wheel's strength is used. Full means it is carrying all it can.", "Tip: a bar at full means the wheel will stall under more load. Add another wheel."]
+	quest.2C6D30CAAACFA175.quest_subtitle: "Every wheel can only carry so much."
+	quest.2C6D30CAAACFA175.title: "Stress for Nerds"
+	quest.2D0A32CF86EB56B1.quest_desc: ["Press a pulp and you get a sheet of stiff grey cardboard. It is light, cheap and strong enough to carry a loaf of bread across a hall.", "Put the &6Pulp&r on a &bDepot&r under your &bMechanical Press&r. Press it, and one &6Cardboard&r comes out. Make several, since packagers use a block of four.", "Tip: four pieces together in a square make a Cardboard Block. Next, we begin the rest of the post line."]
+	quest.2D0A32CF86EB56B1.quest_subtitle: "Pressed flat, it becomes a parcel."
+	quest.2D0A32CF86EB56B1.title: "Cardboard"
+	quest.2D3EEFEAC95A002F.quest_desc: ["A tube is the smallest thinking part of any machine. Put it inside a casing and the machine seems to understand what you ask of it.", "{image:ages:textures/quests/age5/tube.png width:160 height:80 align:center fit:true}", "Place one &6Polished Rose Quartz&r above one &6Iron Sheet&r in the crafting grid. You get an &6Electron Tube&r. Make a few, because the next machines each want one.", "Tip: the tube needs polished quartz, not the raw kind. Next, we make the hand that holds things."]
+	quest.2D3EEFEAC95A002F.quest_subtitle: "Tubes are the machine's little brains."
+	quest.2D3EEFEAC95A002F.title: "Electron Tube"
+	quest.2F6ABF0F96F70DBC.quest_desc: ["Every smart machine begins with a little white crystal. I counted the First Makers' tubes once and lost count. The crystal is &6Nether Quartz&r, and the Overworld does not make it.", "Look for pale veins of &6Nether Quartz Ore&r in the red rock of the Nether and break them with any pickaxe. Each vein gives a few crystals. Gather &e8&r.", "Tip: quartz ore glows faintly pale. Look on the walls of big caverns. Next, we turn it pink with redstone."]
+	quest.2F6ABF0F96F70DBC.quest_subtitle: "White stone, buried in red rock."
+	quest.2F6ABF0F96F70DBC.title: "Nether Quartz"
+	quest.2FBCD732D605BF46.quest_desc: ["Copper does not rust through the way iron does, so it keeps water where you want it. Every pipe, pump and spout of the First Makers lived in a &bCopper Casing&r.", "{image:ages:textures/quests/age5/coppercase.png width:160 height:80 align:center fit:true}", "Strip a log with an axe. Then hold a &6Copper Ingot&r and use it on the stripped log. Each use makes one &bCopper Casing&r. The world does this one, not the crafting grid.", "Tip: this is a new start, so you can do it before or after the Nether. Next, we make a pipe."]
+	quest.2FBCD732D605BF46.quest_subtitle: "A house that keeps the water in."
+	quest.2FBCD732D605BF46.title: "Copper Casing"
 	quest.2FEEBA673B7E3F04.quest_desc: ["Throw an Eye of Ender and follow it to a stronghold."]
 	quest.2FEEBA673B7E3F04.title: "Eye of Ender"
-	quest.31D27DBA25D73C48.quest_desc: ["Put it in flowing water and it spins forever. Wear the goggles to see speed and stress."]
+	quest.30A8348BECB4D1B2.quest_desc: ["The First Makers stacked their alloy in blocks, because loose ingots roll off shelves. An &6Alloy Block&r keeps your stock tidy, and it looks like honest old metal.", "Fill a crafting grid with &e9&r &6Andesite Alloy&r to get one block. Put the block back in the grid alone, and you get the nine ingots back. Nothing is lost either way.", "Tip: keep a block or two in a chest as a reserve. A good workshop always has spare alloy."]
+	quest.30A8348BECB4D1B2.quest_subtitle: "Nine alloy, one tidy block."
+	quest.30A8348BECB4D1B2.title: "Alloy Block"
+	quest.30DBC249B9911752.quest_desc: ["Raw rose quartz is dull. Polished, it holds a charge, and that charge is the spark every smart machine needs. The First Makers polished by hand, one stone at a time.", "{image:ages:textures/quests/age5/polish.png width:160 height:80 align:center fit:true}", "Hold your &6Sand Paper&r in your main hand and the &6Rose Quartz&r in your off-hand, then hold use for a moment. The quartz becomes &6Polished Rose Quartz&r. The recipe viewer shows the same step.", "Tip: you can also polish a dropped item on the ground. Next, we turn it into a tube."]
+	quest.30DBC249B9911752.quest_subtitle: "Polish it, and it begins to glow."
+	quest.30DBC249B9911752.title: "Supercharged"
+	quest.31D27DBA25D73C48.quest_desc: ["This is the sound I know best. The First Makers set a wheel in the river and let the water do the work, day and night. Nothing you will build is as patient.", "{image:ages:textures/quests/age4/wheel.png width:160 height:80 align:center fit:true}", "Craft a &bWater Wheel&r from a &6Shaft&r ringed by &e8&r &6planks&r. Place it with its face touching flowing water. Water must flow past the blades, so a still pond does nothing. Keep a shaft on its axle to carry the turning away.", "Tip: the way the water flows decides which way it turns. When it turns, you have power. Next, we learn to change how it turns."]
+	quest.31D27DBA25D73C48.quest_subtitle: "Water works all night and never asks for supper."
 	quest.31D27DBA25D73C48.title: "Water Wheel"
-	quest.3450C0960C7F9112.quest_desc: ["&6Gate:&r the &eBrass Age&r. The &dSeal of Brass&r unlocks the Blaze Burner. Your backpack goes &6Gold&r, with a magnet!"]
-	quest.3450C0960C7F9112.quest_subtitle: "Age Gate"
+	quest.324E73541DF9D2D3.quest_desc: ["A hose pulley is a pipe on a rope. Lower it into water and it drinks the lake. Lower it into a hole and it fills it.", "Place a &bCopper Casing&r above a &6Dried Kelp Block&r above a &6Copper Sheet&r in the crafting grid. Hang it above a lake and give it rotation. The hose moves down. A pipe takes its liquid away.", "Tip: a hose can drain a whole pool, source blocks and all."]
+	quest.324E73541DF9D2D3.quest_subtitle: "It fills a lake, or drains one."
+	quest.324E73541DF9D2D3.title: "Hose Pulley"
+	quest.335885DBADDD64AF.quest_desc: ["I remember the sound of these, young Maker. Two huge wheels, turning toward each other, crush ore into powder. Making a pair is a heavy job, so this quest only asks you to see one at work. Yours or a friend's will do.", "{image:ages:textures/quests/age5/wheels.png width:160 height:80 align:center fit:true}", "To make them, use a &bMechanical Crafter&r grid in a five by five shape with the corners empty. It takes &e16&r &6Andesite Alloy&r, &e4&r &6Planks&r and &e1&r &6Stone&r. One craft gives two wheels. To finish this quest, look at a &bCrushing Wheel&r for a moment.", "Tip: the recipe viewer shows the pattern. This chain is optional, so skip it if it does not tempt you."]
+	quest.335885DBADDD64AF.quest_subtitle: "Two great wheels, turning toward each other."
+	quest.335885DBADDD64AF.title: "Crushing Wheels"
+	quest.3450C0960C7F9112.quest_desc: ["&6Gate:&r the &eBrass Age&r. Something here runs by itself: a moving field, a belt that carries, a chute that lifts. The wheel is awake. So am I. Hand in the proof, young Maker.", "Bring &e16&r &6Iron Sheets&r. They show your press line runs. Finish the self-feeding base, the zinc, the mixer and the chutes, and you may open the gate. It gives you the &dSeal of Brass&r, which unlocks the Blaze Burner.", "Your backpack becomes &6Gold&r, with a magnet. The brass work waits on the other side."]
+	quest.3450C0960C7F9112.quest_subtitle: "The age ends when something runs by itself."
 	quest.3450C0960C7F9112.title: "Motion"
+	quest.36A7943DC3C9EEAB.quest_desc: ["Netherrack looks like something you would not wish to eat. Ground fine, it makes the flour for a burner's favourite cake.", "Drop &6Netherrack&r between your &bCrushing Wheels&r and collect &6Cinder Flour&r. One block gives at least one, and sometimes two.", "Tip: a stack of netherrack makes plenty. Next, we make a special treat for a burner."]
+	quest.36A7943DC3C9EEAB.quest_subtitle: "Red rock, ground to dust."
+	quest.36A7943DC3C9EEAB.title: "Cinder Flour"
 	quest.37DDB68DED8145C1.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.37DDB68DED8145C1.title: "Shepherds Pie"
+	quest.381097C147A6B5B2.quest_desc: ["Put fire in front of a fan and the wind turns warm. Items blown through it are smoked, and dough comes out as &6Bread&r. It is the First Makers' bakery, running all night.", "Set a &bFan&r so it blows through a lit &6campfire&r. Drop &6Dough&r into the stream. Bread appears at the far end.", "&cStand clear of the fire, and never put the fan against wood.&r Tip: a chute at the end collects the loaves."]
+	quest.381097C147A6B5B2.quest_subtitle: "Air that smells of warm loaves."
+	quest.381097C147A6B5B2.title: "Fan-Baked Bread"
 	quest.3838CC68758564B6.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.3838CC68758564B6.title: "Mixed Salad"
 	quest.3982EBB723ECD32B.quest_desc: ["&6Gate:&r the &eKinetic Age&r begins. The &dSeal of the Kinetic Age&r unlocks &bAndesite Alloy&r, the first Create material."]
 	quest.3982EBB723ECD32B.quest_subtitle: "Age Gate"
 	quest.3982EBB723ECD32B.title: "The Iron Will"
+	quest.39B5DD54D49BCF09.quest_desc: ["A polisher is only a bit of paper with grit on it. Even a Maker's finest tools began as something this plain.", "Place &6Paper&r and &6Sand&r together in the crafting grid, in any order. Make one &6Sand Paper&r. It wears down with use, so make a spare.", "Tip: red sand makes Red Sand Paper, which polishes too, but this quest wants the plain kind. Next, we polish."]
+	quest.39B5DD54D49BCF09.quest_subtitle: "Rough paper for fine work."
+	quest.39B5DD54D49BCF09.title: "Sandpaper"
 	quest.3A5ABCECFC7F5F6C.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.3A5ABCECFC7F5F6C.title: "Baked Cod Stew"
+	quest.3B3EC53A5F344F12.quest_desc: ["A &bCopper Backtank&r stores air under pressure. Worn with a diving helmet, it lets you breathe underwater.", "Craft one from &e2&r &6Andesite Alloy&r, one &6Shaft&r, &e3&r &6Copper Ingots&r and a &6Block of Copper&r. Place it as a block and turn a shaft into it until it fills with air. Then pick it up, wear it on your chest, and pair it with a helmet.", "Tip: a full backtank is worth wearing underwater."]
+	quest.3B3EC53A5F344F12.quest_subtitle: "Air, stored on your back."
+	quest.3B3EC53A5F344F12.title: "Copper Backtank"
 	quest.3F46B93FE9AF71A1.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.3F46B93FE9AF71A1.title: "Apple Pie"
+	quest.3F68165C089289E1.quest_desc: ["Crushed ore is only half done. A wash turns it into clean nuggets, and the same trick with a fan works for many ores.", "{image:ages:textures/quests/age5/washed.png width:160 height:80 align:center fit:true}", "Put &6Crushed Raw Zinc&r in front of an &bEncased Fan&r with flowing &6water&r between them. Out come &e9&r &6Zinc Nuggets&r, and sometimes a little gunpowder. Collect &e9&r nuggets.", "Tip: nine zinc nuggets craft back into one ingot, and they make andesite alloy as iron nuggets do. A belt or a chest at the end catches the output."]
+	quest.3F68165C089289E1.quest_subtitle: "Water finishes the work."
+	quest.3F68165C089289E1.title: "Washed Nuggets"
 	quest.3F71037910F94C34.quest_desc: ["Your first tool."]
 	quest.3F71037910F94C34.title: "Wooden Pickaxe"
 	quest.405BCA1705D5D5C2.quest_desc: ["&6Gate:&r you are ready for the &eStone Age&r.\\n\\nThis gives you the &dSeal of Stone&r. Seals unlock each Age's key recipes; keep them safe (they are never used up). The furnace needs this one."]
@@ -126,38 +281,74 @@
 	quest.411A64270A0EDEB0.title: "Anvil"
 	quest.4186F8F7A28A18A1.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.4186F8F7A28A18A1.title: "Fish Stew"
-	quest.41949EDADCA67347.quest_desc: ["Mix sugar, cocoa and milk. Because you can."]
+	quest.41949EDADCA67347.quest_desc: ["A river of chocolate. I did not believe it either. It is heat, sugar, cocoa and milk, mixed in a heated basin.", "{image:ages:textures/quests/age5/choco.png width:160 height:80 align:center fit:true}", "Pour a &6Milk Bucket&r straight into the &bBasin&r, or pump it in from your drain. Add &e1&r &6Sugar&r and &e1&r &6Cocoa Beans&r for each &e250&r mB of milk. With the fed &bBlaze Burner&r under the basin, the mixer makes &e250&r mB of chocolate per batch. After &e4&r batches, fill an empty &6Bucket&r from the basin or at your spout.", "&cThe basin must be heated.&r Tip: use pipes and a pump to move the chocolate where you need it."]
+	quest.41949EDADCA67347.quest_subtitle: "A river you can pour over berries."
 	quest.41949EDADCA67347.title: "Chocolate River"
 	quest.424741C2D3D233FE.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.424741C2D3D233FE.title: "Vegetable Soup"
+	quest.42B6B29049A73BD8.quest_desc: ["A good &bWrench&r hangs on every foreman's belt, and I still feel the weight of mine. It rotates machines, picks them up and sets them somewhere else, without breaking them.", "Craft one from &e3&r &6Gold Sheets&r, a &6Cogwheel&r and a &6stick&r. Right-click a machine to rotate it. Hold sneak and right-click to pick it up whole. Gold sheets come from pressing &6Gold Ingots&r.", "Tip: sneak and right-click is the safe way to move a machine. Breaking one by hand works too, but the wrench is gentler."]
+	quest.42B6B29049A73BD8.quest_subtitle: "The tool the Makers never put down."
+	quest.42B6B29049A73BD8.title: "Wrench"
 	quest.435C32DFDF5E41DB.quest_desc: ["A whole roast chicken. Place it and serve slices to your friends."]
 	quest.435C32DFDF5E41DB.title: "Feast"
+	quest.43CFAA760C6888F3.quest_desc: ["A burner is a small iron hearth, and it holds a living flame. First you build the empty hearth, then you find the fire to fill it.", "In the crafting grid, set &e4&r &6Iron Sheets&r in a plus shape with &6Netherrack&r in the middle. &cThis recipe is sealed.&r Put your &dSeal of Brass&r in a top corner of the grid, as the recipe viewer shows. It is never used up.", "Tip: iron sheets come from your press. Netherrack is everywhere down here. Next, we look for a fortress and the blazes inside."]
+	quest.43CFAA760C6888F3.quest_subtitle: "A hearth with no fire in it yet."
+	quest.43CFAA760C6888F3.title: "Empty Blaze Burner"
+	quest.441421AFEC87F57F.quest_desc: ["A Maker's tea is brewed hot, with leaves, water and milk. It gives a builder the strength of a wall, so they say.", "In a heated &bBasin&r, mix &6any leaves&r with a portion of water and a portion of milk. Fill a &6Glass Bottle&r with the tea at your spout.", "Tip: you can pass the bottles under a spout on a belt. Drink it before a long build."]
+	quest.441421AFEC87F57F.quest_subtitle: "Strong enough to move a wall."
+	quest.441421AFEC87F57F.title: "Builder's Tea"
 	quest.442BFAE73E693CE1.quest_desc: ["&bFarmer's Delight&r adds real cooking. The pot needs a heat source under it: a campfire or a lit furnace."]
 	quest.442BFAE73E693CE1.title: "Cooking Pot"
+	quest.4550FE89CA9FE653.quest_desc: ["A pipe can hide what runs inside it. With a window you can see the liquid move, and know your pump is working.", "Use a &bWrench&r on a straight &bFluid Pipe&r while liquid is flowing through it. The pipe gets a glass window. Use the wrench again to take the window away."]
+	quest.4550FE89CA9FE653.quest_subtitle: "A window to watch the flow."
+	quest.4550FE89CA9FE653.title: "Flow Discovery"
 	quest.4731E3D35F478FA4.quest_desc: ["Smelt logs to make charcoal. No coal? No problem."]
 	quest.4731E3D35F478FA4.title: "Charcoal Burner"
 	quest.475CF7C7F6E822F5.quest_desc: ["The Seal of Iron goes in the grid with the ingots."]
 	quest.475CF7C7F6E822F5.title: "Iron Armor"
+	quest.47D4BE3E04A160B6.quest_desc: ["The press is not fussy. Iron, copper, gold: put any ingot under it and you get a sheet. Copper sheets are the doorway to the next age, and I like to see them early.", "{image:ages:textures/quests/age4/csheet.png width:160 height:80 align:center fit:true}", "Set a &6Copper Ingot&r on the depot under a working press. A &6Copper Sheet&r pops out. You get copper from your Bronze Age work, or from fresh ore.", "Tip: sheets stack, so press a handful at a time. Keep them. Later machines will want them."]
+	quest.47D4BE3E04A160B6.quest_subtitle: "The press does not mind which metal."
+	quest.47D4BE3E04A160B6.title: "Copper Sheet"
 	quest.47EB7D91F0B8A5EB.quest_desc: ["A blaze that enchants items with liquid XP."]
 	quest.47EB7D91F0B8A5EB.title: "Blaze Enchanter"
 	quest.4819DE939CDAF827.quest_desc: ["Catch a fish."]
 	quest.4819DE939CDAF827.title: "Gone Fishin'"
-	quest.48D437ED22A49BA2.quest_desc: ["Shafts carry rotation; cogs change its speed."]
-	quest.48D437ED22A49BA2.title: "Shafts & Cogs"
+	quest.48D437ED22A49BA2.quest_desc: ["Rotation is how a machine moves, and rotation needs roads. A &bShaft&r is a road that goes straight. A &bCogwheel&r is a road that turns a corner. Nothing in the Kinetic Age works without them.", "{image:ages:textures/quests/age4/cogs.png width:160 height:80 align:center fit:true}", "Put &e2&r &6Andesite Alloy&r in the crafting grid, one above the other, to get &e8&r shafts. Then craft a shaft with a &6plank&r to get a cogwheel; make &e4&r. Two cogwheels side by side turn each other in opposite directions.", "Tip: shafts only link in straight lines, so a cogwheel must sit beside another cog or on a shaft's end. The water wheel is next."]
+	quest.48D437ED22A49BA2.quest_subtitle: "A shaft turns. A cog hands it on."
+	quest.48D437ED22A49BA2.title: "Shafts & Cogwheels"
 	quest.48E4036CCB2D63AA.quest_desc: ["Everyone remembers their first."]
 	quest.48E4036CCB2D63AA.title: "Diamonds!"
+	quest.49136EB029A27250.quest_desc: ["A snack worthy of a foreman. Sweet berries and a little chocolate, and the First Makers ate them by the handful.", "Pass &6Sweet Berries&r under your &bSpout&r while it holds chocolate. Each berry takes a portion of chocolate and comes out glazed.", "Tip: one portion of chocolate glazes one berry, so a full basin glazes many."]
+	quest.49136EB029A27250.quest_subtitle: "Berries, dipped in chocolate."
+	quest.49136EB029A27250.title: "Glazed Berries"
 	quest.493654FA83E10957.quest_desc: ["Hearty food fills you up far longer than raw vegetables."]
 	quest.493654FA83E10957.title: "First Stew"
 	quest.49B06BFB39366D86.quest_desc: ["Hover any item and press &eR&r to see its recipe, or &eU&r to see what it is used for. The list on the right side of your inventory is &bJEI&r; search it with the box at the bottom.\\n\\nAlso try &eJade&r: look at any block and a label at the top tells you what it is."]
 	quest.49B06BFB39366D86.title: "Look It Up"
 	quest.4A2044BE20F7F8EB.quest_desc: ["Oil lies deep. Build a pumpjack over a deposit."]
 	quest.4A2044BE20F7F8EB.title: "Striking Oil"
-	quest.4C882A37C3ABC1D5.quest_desc: ["&eMerge:&r build a farm that runs by itself: water-wheel power, harvesters, done. Check this off when food makes itself."]
+	quest.4A22C4AC82F39A53.quest_desc: ["Shafts go straight. A &bGearbox&r lets the turning go round a corner, up a wall, or out in four directions at once, all inside one tidy casing.", "Craft it from a &6Casing&r with &e4&r &6Cogwheels&r around it, one on each side. Place it, then connect shafts to the faces you want. It passes the turning on without changing the speed.", "Tip: a gearbox beats a long row of cogs."]
+	quest.4A22C4AC82F39A53.quest_subtitle: "A corner, boxed up and quiet."
+	quest.4A22C4AC82F39A53.title: "Gearbox"
+	quest.4B693BA49D17A741.quest_desc: ["A belt out in the open spills things. A &bTunnel&r covers a stretch of belt and can split what passes through onto a second lane.", "Craft one from &e2&r &6Andesite Alloy&r over &e2&r &6Dried Kelp&r. Place it over a belt. A tunnel beside the belt can split items off onto another belt running alongside.", "Tip: tunnels also make a belt look tidy."]
+	quest.4B693BA49D17A741.quest_subtitle: "A roof for the belt, and a fork."
+	quest.4B693BA49D17A741.title: "Tunnels"
+	quest.4C15F3A63BDB0650.quest_desc: ["Belts go sideways and a little up. For straight up and straight down, the First Makers built chutes. Items fall down a chute with a rattle, and a fan can lift them up.", "{image:ages:textures/quests/age4/chute.png width:160 height:80 align:center fit:true}", "Craft a few &bChutes&r from &e2&r &6Iron Sheets&r and an &6Iron Ingot&r. Stack them in a column, and drop an item in the top. It drops down by itself. A fan at the bottom, blowing up, can lift items back up.", "Tip: put a funnel at the bottom so the item flows into a chest. This closes the logistics section."]
+	quest.4C15F3A63BDB0650.quest_subtitle: "Down it falls. Up it is carried."
+	quest.4C15F3A63BDB0650.title: "Chutes"
+	quest.4C882A37C3ABC1D5.quest_desc: ["This is the moment I remember best. The First Makers built a moving field that fed their whole camp and never tired. A build with a harvester, spinning on a bearing, is the same dream in your hands.", "{image:ages:textures/quests/age4/selffeed.png width:160 height:80 align:center fit:true}", "Glue a &bMechanical Harvester&r to a &bMechanical Bearing&r, with a little wooden frame so it reaches the crops. Feed the bearing rotation from your water wheel, and right-click to assemble. The advancement checks that your build has a harvester, a drill or a saw working on it.", "Tip: a chest beside the build, with a funnel, gathers the crops while you sleep."]
+	quest.4C882A37C3ABC1D5.quest_subtitle: "Fed by a machine that cares."
 	quest.4C882A37C3ABC1D5.title: "Self-Feeding Base"
 	quest.4CF6DE075CF55C52.quest_desc: ["Paper plus a compass makes a map. Knowledge is power."]
 	quest.4CF6DE075CF55C52.title: "Cartographer"
+	quest.4D56122093FFBE57.quest_desc: ["A &bSpout&r fills what sits beneath it: a bottle, a bucket or a berry. The First Makers poured their tea this way.", "{image:ages:textures/quests/age5/spout.png width:160 height:80 align:center fit:true}", "Place a &bCopper Casing&r above &6Dried Kelp&r in the crafting grid. Set the spout over a belt or a &bDepot&r, connect it by pipe to a source of liquid, and pass empty bottles or buckets underneath.", "Tip: a spout needs a full portion of liquid for each item. Next, a place to empty things."]
+	quest.4D56122093FFBE57.quest_subtitle: "It pours into whatever passes under."
+	quest.4D56122093FFBE57.title: "Spout"
 	quest.4DE1B176406848BA.quest_desc: ["Store power for later."]
 	quest.4DE1B176406848BA.title: "Battery Bank"
+	quest.4DEDDFD23BE710DD.quest_desc: ["A &bGearshift&r looks like a clutch, but it does something odder. A redstone signal makes everything beyond it spin the other way. Forwards, backwards: a lift, a door, a conveyor, all from one lever.", "Craft it from a &6Casing&r, a &6Cogwheel&r and &6redstone dust&r. Put it in a shaft line, and give it a signal. The shafts after it reverse. Remove the signal, and they turn the right way again.", "Tip: the wheel does not mind. It only turns, and the gearshift decides the direction."]
+	quest.4DEDDFD23BE710DD.quest_subtitle: "Turn it backwards. Watch the wheel think."
+	quest.4DEDDFD23BE710DD.title: "Gearshift"
 	quest.4FDF0831E3DABCFB.quest_desc: ["&6The end of all Ages.&r\\n\\nFrom a punched tree to a humming electric empire. You are the &6Architect of Ages&r."]
 	quest.4FDF0831E3DABCFB.quest_subtitle: "Age Gate"
 	quest.4FDF0831E3DABCFB.title: "The Age of Wonders"
@@ -165,48 +356,105 @@
 	quest.5072518227F8CD81.title: "Dungeon Diver"
 	quest.50C498DDB0A4A3C2.quest_desc: ["Clear the halls."]
 	quest.50C498DDB0A4A3C2.title: "Kill 25 Undead"
+	quest.5151900F9359FFB6.quest_desc: ["A furnace takes one ingot from one ore. A pair of wheels can take a little more, and they leave a little experience as well. It is the First Makers' way of getting extra out of the ground.", "Set two &bCrushing Wheels&r face to face with one block between them, turning toward each other so the near sides move down. Drop &6Raw Zinc&r into the gap from above. Collect the &6Crushed Raw Zinc&r.", "Tip: from raw zinc the wheels give the same metal plus a little experience. Whole ore blocks mined with Silk Touch give nearly double. The wheels need steady rotation."]
+	quest.5151900F9359FFB6.quest_subtitle: "More from every ore."
+	quest.5151900F9359FFB6.title: "Crushed Zinc"
 	quest.5188F1E9630643A3.quest_desc: ["Find an abandoned mineshaft. They run deep."]
 	quest.5188F1E9630643A3.title: "Mineshaft Delver"
+	quest.52528B946F96C9F7.quest_desc: ["Blazes throw three fireballs at a time and hover out of reach. Fighting one in the open is a bad bargain.", "Find a blaze cage in your fortress and fight from behind a wall of blocks, stepping out to strike. Defeat &e3&r blazes. A fire resistance potion helps, and so does a shield.", "Tip: kill them near the cage, so new ones keep coming while you fight. Collect the &6Blaze Rods&r."]
+	quest.52528B946F96C9F7.quest_subtitle: "Stand behind cover, and hit back."
+	quest.52528B946F96C9F7.title: "Fire with Fire"
 	quest.54798A623EC1ECFE.quest_desc: ["Copper ore is orange-speckled stone, common in hills."]
 	quest.54798A623EC1ECFE.title: "Mine Copper"
+	quest.54B26DEFD435DFB8.quest_desc: ["A piston is only as long as its pole. Each &6Extension Pole&r you add behind the head lets the piston reach one block further. The First Makers' longest ran across a whole valley.", "Craft a pole from &6Andesite Alloy&r between two &6planks&r. One craft makes &e8&r. Place them in a line behind the piston, and the head moves out in front.", "Tip: poles carry no power, and they give the piston a longer track. They also look good in a build."]
+	quest.54B26DEFD435DFB8.quest_subtitle: "The longer the pole, the longer the push."
+	quest.54B26DEFD435DFB8.title: "Extension Pole"
+	quest.5525D275779979BC.quest_desc: ["The First Makers' saw could cut a hundred logs before breakfast. A &bMechanical Saw&r splits logs into planks, and cuts stone and alloy into shapes at speed.", "Craft one from &e3&r &6Iron Sheets&r, an &6Iron Ingot&r and a &6Casing&r. Place it blade-up, give it rotation and throw a &6log&r on top. Planks drop out.", "Tip: stand clear. The blade hurts anything that touches it, you included."]
+	quest.5525D275779979BC.quest_subtitle: "A logger that never gets tired."
+	quest.5525D275779979BC.title: "Mechanical Saw"
 	quest.555192FEE22A6F0D.quest_desc: ["Sleep through a night."]
 	quest.555192FEE22A6F0D.title: "Sweet Dreams"
-	quest.55A3B09C6EBDF059.quest_desc: ["Craft an Empty Blaze Burner (needs the Seal of Brass), then right-click a blaze with it."]
+	quest.55A3B09C6EBDF059.quest_desc: ["*whirr* There. A hearth with a living flame in it. This is what warmed the First Makers' brass works. Feed it, and it keeps working.", "{image:ages:textures/quests/age5/burner.png width:160 height:80 align:center fit:true}", "Carry your &bEmpty Blaze Burner&r to a blaze and use it on the creature. The blaze moves in and the burner becomes a &bBlaze Burner&r. Hold W over the item in the recipe viewer for Ponder, which shows how it is done.", "Tip: set it under a &bBasin&r and it heats whatever the mixer is stirring. Feed it a log or a lump of coal so it glows. This closes the Nether run. Next, we make brass."]
+	quest.55A3B09C6EBDF059.quest_subtitle: "Fire, caught and kept."
 	quest.55A3B09C6EBDF059.title: "Catch a Blaze"
 	quest.561B98AE37BEEED9.quest_desc: ["&bCreate: Crafts & Additions&r. Spin it and it makes electricity."]
 	quest.561B98AE37BEEED9.title: "Alternator"
-	quest.5722113FC5DEFBE5.quest_desc: ["Crafting grids of any size, automated."]
+	quest.5722113FC5DEFBE5.quest_desc: ["The First Makers built a wall of crafters and fed it by belt. Each one held a single item, and together they made anything that has a recipe.", "{image:ages:textures/quests/age5/crafter.png width:160 height:80 align:center fit:true}", "Craft &bMechanical Crafters&r from an &6Electron Tube&r above a &bBrass Casing&r above a &6Crafting Table&r. One craft makes &e3&r. Place several side by side to match a recipe grid, point them at one exit, and give them rotation.", "Tip: each crafter holds one item, so a nine-slot recipe needs a nine-crafter grid. Next, a grid of crafters can build the great crushing wheels."]
+	quest.5722113FC5DEFBE5.quest_subtitle: "A grid of tiny hands, crafting together."
 	quest.5722113FC5DEFBE5.title: "Mechanical Crafter"
+	quest.57BFDF13446FA764.quest_desc: ["A belt moves things, but something has to put them on it. A &bFunnel&r pulls items out of a chest, or drops them into one, without a hand in sight.", "{image:ages:textures/quests/age4/funnel.png width:160 height:80 align:center fit:true}", "Craft one from &6Andesite Alloy&r and &6Dried Kelp&r. Place it against a chest or a barrel. With a belt next to it, items flow out of the chest onto the belt. Turn it round and items flow in.", "Tip: funnels can also sit on top of a belt to catch items. Use the wrench to flip them."]
+	quest.57BFDF13446FA764.quest_subtitle: "A little door that lets items through."
+	quest.57BFDF13446FA764.title: "Funnels"
 	quest.57C64F2A0AE8C195.quest_desc: ["Breed animals: wheat for cows and sheep, carrots for pigs."]
 	quest.57C64F2A0AE8C195.title: "Animal Husbandry"
 	quest.583701BAC331E8D3.quest_desc: ["Right-click to block."]
 	quest.583701BAC331E8D3.title: "Shield Up"
-	quest.587D3AFBCDEB7C8C.quest_desc: ["Right-click a stripped log with a brass ingot."]
+	quest.587D3AFBCDEB7C8C.quest_desc: ["Andesite houses plain machines. Brass houses the clever ones. The First Makers called it the &bBrass Casing&r, and every smart machine in their halls wore one.", "{image:ages:textures/quests/age5/brasscase.png width:160 height:80 align:center fit:true}", "Strip a log with an axe. Then hold a &6Brass Ingot&r and use it on the stripped log. Each use makes one &bBrass Casing&r. You cannot craft it in the grid, because the world does the work.", "Tip: the recipe viewer shows this as item application. Next, the casing waits for a tube and a hand."]
+	quest.587D3AFBCDEB7C8C.quest_subtitle: "A finer house for finer machines."
 	quest.587D3AFBCDEB7C8C.title: "Brass Casing"
+	quest.595DE81F829D77EA.quest_desc: ["A &bMechanical Piston&r pushes a glued group along a line of poles, far further than a normal piston. The First Makers used them for lifts, doors and wall-sized gates.", "{image:ages:textures/quests/age4/piston.png width:160 height:80 align:center fit:true}", "Craft one from a &6wooden slab&r, a &6Casing&r and a &6Piston Extension Pole&r. Poles are made of alloy between two planks. Place it, put poles on the back, and glue a build to the head.", "Tip: add poles to extend its reach. It moves one block at a time and holds still when it stops."]
+	quest.595DE81F829D77EA.quest_subtitle: "A push that goes on and on."
+	quest.595DE81F829D77EA.title: "Mechanical Piston"
 	quest.5A4A0B7DF4784B7E.quest_desc: ["&eMerge:&r 3 copper ingots + 1 tin ingot + your &dSeal of Bronze&r = 4 Bronze Blend. Smelt it into bronze ingots."]
 	quest.5A4A0B7DF4784B7E.title: "First Alloy"
+	quest.5ABA4E32E8A77236.quest_desc: ["A long row of cogs is noisy and wastes space. A &bChain Drive&r lets two shafts hand the turning along side by side, with no cogs between them. The First Makers used rows of them in their workshops.", "Craft one from a &6Casing&r and &e3&r &6Iron Nuggets&r. Place a few in a row, each touching the next, and put a shaft through them. They all turn the same way at the same speed.", "Tip: they do not send the turning round corners. A gearbox does that."]
+	quest.5ABA4E32E8A77236.quest_subtitle: "Shafts holding hands."
+	quest.5ABA4E32E8A77236.title: "Chain Drive"
+	quest.5C6C964049D8E09C.quest_desc: ["Long before the First Makers built engines, they traded. A &6Table Cover&r over a table says: something is for sale here. It is the first step toward a shop, and shops come later.", "Cut &e2&r from one &6Andesite Alloy&r in a &bStonecutter&r. Put one on a table or any flat block. For a coloured cover, craft one from &6wool&r with an alloy instead.", "Tip: it does nothing alone. A shop also needs a way to take payment. Keep one safe."]
+	quest.5C6C964049D8E09C.quest_subtitle: "The first piece of a shop."
+	quest.5C6C964049D8E09C.title: "Table Cover"
+	quest.5CF9AF2B2CFE41A2.quest_desc: ["A frogport sits beside a chain conveyor. It catches parcels addressed to it and drops them into the chest below. It looks like a wide-mouthed frog because the First Makers thought it funny.", "Craft a &bFrogport&r from a &6Slimeball&r above an &bItem Vault&r above an &6Andesite Alloy&r. Hold it, right-click a chain conveyor, then place it nearby. Put a chest under it to catch what arrives."]
+	quest.5CF9AF2B2CFE41A2.quest_subtitle: "A frog at the end of the post road."
+	quest.5CF9AF2B2CFE41A2.title: "Frogport"
+	quest.5E0C2228491F5C4D.quest_desc: ["The harvester cuts. The &bMechanical Plough&r tills. On a moving build, the two together keep a field open all season. The First Makers called that a good harvest.", "Craft one from &e3&r &6Iron Sheets&r, &e3&r &6Andesite Alloy&r in a row, and a &6Casing&r. Place it facing a field on a moving build, and soil turns to farmland as it passes. It also pushes mobs and items aside.", "Tip: always put the plough before the harvester on the build, so soil is ready."]
+	quest.5E0C2228491F5C4D.quest_subtitle: "Soil turned over by gears."
+	quest.5E0C2228491F5C4D.title: "Mechanical Plough"
 	quest.5FDFAE5FD4787F27.quest_desc: ["&6Gate:&r the final age: &eSpark&r. The &dSeal of the Spark&r completes the Rolling Mill."]
 	quest.5FDFAE5FD4787F27.quest_subtitle: "Age Gate"
 	quest.5FDFAE5FD4787F27.title: "Forged"
+	quest.6028E5FC81582F5A.quest_desc: ["The First Makers loved a glowing number. A nixie tube is a small glass lamp that shows letters, and I find it very handsome.", "Place &e2&r &6Electron Tubes&r together in the crafting grid. You get &e4&r &bNixie Tubes&r. Give one a redstone signal and it shows the strength, or use a written &6Clipboard&r on it to show your own words.", "Tip: a dye changes its colour."]
+	quest.6028E5FC81582F5A.quest_subtitle: "A little lamp that spells things."
+	quest.6028E5FC81582F5A.title: "Nixie Tube"
+	quest.60FE0AB5338374D8.quest_desc: ["A door that goes with your copper walls. It opens like any wooden door, and it suits a workshop that holds water pipes and pumps.", "Place a &6wooden door&r of any wood and a &bCopper Casing&r together in the crafting grid. Hang it in a doorway and open it to test the hinge."]
+	quest.60FE0AB5338374D8.quest_subtitle: "Copper on the hinge, for a wet workshop."
+	quest.60FE0AB5338374D8.title: "Copper Door"
 	quest.61B016C33B467AE6.quest_desc: ["Iron + coke, very hot. The strongest metal yet."]
 	quest.61B016C33B467AE6.title: "Steel Ingot"
+	quest.62748CBB33A3F9CD.quest_desc: ["Hands hold. Arms reach. This one can lift from one place and set down in another, again and again, without a word.", "{image:ages:textures/quests/age5/arm.png width:160 height:80 align:center fit:true}", "Craft a &bMechanical Arm&r from a &6Precision Mechanism&r, a &bBrass Casing&r, &e3&r &6Brass Sheets&r and one &6Andesite Alloy&r. Before you place it, hold the arm and right-click the block it should take from, then the block it should give to. Place it within reach of both, give it rotation, and watch it carry one item.", "Tip: an arm works with belts, depots, chests and most machines. Next, we put arms to work in a real factory."]
+	quest.62748CBB33A3F9CD.quest_subtitle: "An arm that never asks twice."
+	quest.62748CBB33A3F9CD.title: "Mechanical Arm"
+	quest.63DA407349A139BA.quest_desc: ["A burner on plain fuel is warm. A burner fed a &bBlaze Cake&r burns white-hot, hot enough for the few recipes that need super-heat. Blazes, I am told, love cake.", "Press an &6Egg&r, &6Sugar&r and &6Cinder Flour&r in a compacting setup to make a &6Blaze Cake Base&r. Then fill the base with &e250&r mB of &6lava&r at a &bSpout&r. Hand the cake to your burner.", "Tip: lava is dangerous. Keep pipes and basins well away from your own feet."]
+	quest.63DA407349A139BA.quest_subtitle: "A birthday treat for a blaze."
+	quest.63DA407349A139BA.title: "Blaze Cake"
+	quest.643C8DCC0B8A7EE7.quest_desc: ["Run two belts so their ends meet nose to nose, with a funnel on the end of each, and items hop from one to the other like old friends. It looks like a handshake, and the First Makers found it funny.", "Place a &bFunnel&r on the end of each belt, so the two funnels face each other. Put an item on the first belt and watch it hop across. Keep two funnels in your pack.", "Tip: the way the funnels face decides which way items go. A wrench turns them."]
+	quest.643C8DCC0B8A7EE7.quest_subtitle: "Two funnels, one handshake."
+	quest.643C8DCC0B8A7EE7.title: "The Parrots and the Flaps"
 	quest.651F9513B9566C93.quest_desc: ["&bEnchantment Industry&r: grind enchanted gear into liquid experience."]
 	quest.651F9513B9566C93.title: "Enchanting on Tap"
 	quest.658750B710B53FA0.quest_desc: ["Distill crude oil into fuels."]
 	quest.658750B710B53FA0.title: "Refinery"
 	quest.659BA92315416E71.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.659BA92315416E71.title: "Steak And Potatoes"
-	quest.65BA251E468A739B.quest_desc: ["Dark brick halls full of blazes."]
+	quest.65BA251E468A739B.quest_desc: ["Blazes only live in a Nether fortress: long halls of dark red brick, with bridges and tall towers. The blaze cages sit inside them.", "Walk the Nether until you see the brick, then step inside. Travel on a bridge, not beside it, because the drop is long. A fortress is big, so mark your way back with a torch trail.", "Tip: snowballs hurt blazes, and a bow keeps you at a distance. Take food and armour with you. Next, we catch one."]
+	quest.65BA251E468A739B.quest_subtitle: "Dark brick halls, and things that burn."
 	quest.65BA251E468A739B.title: "Find a Fortress"
 	quest.6664FCA823DB626D.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.6664FCA823DB626D.title: "Beef Stew"
 	quest.667489F27142BFE7.quest_desc: ["Cobblestone beats wood. Make a stone pickaxe."]
 	quest.667489F27142BFE7.title: "Stone Tools"
-	quest.681D0CDF65B19606.quest_desc: ["Step-by-step assembly on a belt. The wow moment."]
+	quest.6697D1883831347A.quest_desc: ["The First Makers whistled the end of every shift. A whistle on top of a boiler makes a clear, high sound that carries for miles.", "Craft a &bSteam Whistle&r from a &6Gold Sheet&r above a &6Copper Ingot&r. Set it on the side or top of your boiler's tank and give it a redstone signal, such as a lever. It sings while the boiler is heated."]
+	quest.6697D1883831347A.quest_subtitle: "A little boiler with a big voice."
+	quest.6697D1883831347A.title: "Steam Whistle"
+	quest.681D0CDF65B19606.quest_desc: ["This is the most careful thing the First Makers knew how to build. A part takes many small steps, and each step belongs to one machine. When the last machine is done, you hold a &6Precision Mechanism&r.", "{image:ages:textures/quests/age5/precision.png width:160 height:80 align:center fit:true}", "Start with a &6Gold Sheet&r on a belt under three &bDeployers&r: one applies a &6Cogwheel&r, one a &6Large Cogwheel&r, one an &6Iron Nugget&r. The part needs &e5&r rounds, so bring it back to the start with belts and depots, or build one long line.", "Tip: an unfinished part must keep moving. Mistakes sometimes come out as scrap. This closes the section."]
+	quest.681D0CDF65B19606.quest_subtitle: "One machine for each small step."
 	quest.681D0CDF65B19606.title: "Sequenced Assembly"
+	quest.68B04DEE3673ECE1.quest_desc: ["A workshop should not be only useful. The First Makers cut their alloy into scaffolding, ladders and bars, so their halls looked as sturdy as they were.", "Put &6Andesite Alloy&r in a &bStonecutter&r and pick the shape you want. Make an &6Andesite Scaffolding&r and an &6Andesite Ladder&r. One alloy makes &e2&r scaffolding or &e2&r ladders.", "Tip: scaffolding lets you stand on the edge of a build and reach the far side. It is the best friend of anything tall."]
+	quest.68B04DEE3673ECE1.quest_subtitle: "Even a workshop can be handsome."
+	quest.68B04DEE3673ECE1.title: "Alloy Decor"
 	quest.68BC051601868010.quest_desc: ["Stations are where trains are built and stop."]
 	quest.68BC051601868010.title: "Station"
-	quest.691FDB34F3B840D6.quest_desc: ["A robot arm that uses items like a player."]
+	quest.691FDB34F3B840D6.quest_desc: ["*click-clack* Put an item in this machine and it uses it, the way you would. It uses it on the spot two blocks in front, and it can place a block, apply an item, or press a button.", "{image:ages:textures/quests/age5/deployer.png width:160 height:80 align:center fit:true}", "Craft a &bDeployer&r from one &6Electron Tube&r, one &bAndesite Casing&r and one &6Brass Hand&r, in a column. Give it rotation and hand it an item. It sets it down on whatever is in front.", "Tip: it can also apply items to things moving past on a belt, which is how machines can be chained. Next, three deployers build the finest part of all."]
+	quest.691FDB34F3B840D6.quest_subtitle: "A hand that uses things, over and over."
 	quest.691FDB34F3B840D6.title: "Deployer"
 	quest.6A7672267F4308B3.quest_desc: ["A big multi-block furnace for steel."]
 	quest.6A7672267F4308B3.title: "Blast Furnace"
@@ -218,33 +466,85 @@
 	quest.6BFB5539D1CEC86A.title: "Wake Up"
 	quest.6C3F17378A15C05D.quest_desc: ["Assemble a train at a station and drive it."]
 	quest.6C3F17378A15C05D.title: "First Train"
-	quest.6D316507F4205439.quest_desc: ["Five different dishes. A varied diet is a happy diet."]
+	quest.6D316507F4205439.quest_desc: ["Hold one of each: Mixed Salad, Pumpkin Soup, Chicken Soup, Fish Stew and Fruit Salad (Farmer's Delight). Just carry them, nothing is used up."]
 	quest.6D316507F4205439.title: "Pantry"
+	quest.6E17C27F986A0B5B.quest_desc: ["A door should match the wall it is set in. This one matches brass casing, and needs no key.", "Place a &6wooden door&r of any wood and a &bBrass Casing&r together in the crafting grid. Hang it in a doorway and open it. It makes a satisfying sound."]
+	quest.6E17C27F986A0B5B.quest_subtitle: "A door to match the casing."
+	quest.6E17C27F986A0B5B.title: "Brass Door"
+	quest.6EC04E2D2738F5CC.quest_desc: ["A glued group needs something to carry it. The &bMechanical Bearing&r holds a build on one face and turns it round and round, as fast as the shaft turning it.", "{image:ages:textures/quests/age4/bearing.png width:160 height:80 align:center fit:true}", "Craft one from a &6wooden slab&r on top of a &6Casing&r on top of a &6Shaft&r. Place it, glue something to the front face, give it rotation, then right-click the bearing to assemble. The glued build spins.", "Tip: a harvester on a spinning arm gathers a circle of crops with no help. The self-feeding base is next."]
+	quest.6EC04E2D2738F5CC.quest_subtitle: "Something that holds and spins."
+	quest.6EC04E2D2738F5CC.title: "Mechanical Bearing"
 	quest.6F54D8ED8A8196FA.quest_desc: ["Smelts ores twice as fast."]
 	quest.6F54D8ED8A8196FA.title: "Blast Furnace"
+	quest.708C7BB21FBF4E58.quest_desc: ["A stock ticker is a small desk. Sit a worker behind it and he takes orders for what the storehouse holds.", "{image:ages:textures/quests/age5/ticker.png width:160 height:80 align:center fit:true}", "Place a &6Glass&r block above a &bStock Link&r above a &6Gold Ingot&r in the crafting grid. Before you place it, use it on your &bStock Link&r to join that network. Then place it and use it to see what the network holds.", "Tip: a ticker needs a stock link on the same network."]
+	quest.708C7BB21FBF4E58.quest_subtitle: "A desk where orders are taken."
+	quest.708C7BB21FBF4E58.title: "Stock Ticker"
+	quest.7090539AFF808B83.quest_desc: ["A packager wraps items in cardboard and sends them as one parcel. It is the beginning of every post office.", "{image:ages:textures/quests/age5/packager.png width:160 height:80 align:center fit:true}", "Craft a &bCardboard Block&r from &e4&r &6Cardboard&r. Then set it with &e4&r &6Iron Ingots&r and &e2&r &6Redstone Dust&r in the packager pattern shown in the recipe viewer. Set the packager against a chest with items inside. Give it a redstone signal, such as a button, and it wraps the chest's items into a package.", "Tip: a packager wraps what is in the container beside it."]
+	quest.7090539AFF808B83.quest_subtitle: "It wraps what you give it."
+	quest.7090539AFF808B83.title: "Packager"
+	quest.711B2405428E4DA6.quest_desc: ["A plain wooden door in a casing wall looks like a mistake. The First Makers made doors from casing, so the entrance matched the workshop around it.", "Craft one from any &6wooden door&r and a &6Andesite Casing&r. Place it like any door. It opens by hand, and a pressure plate or button works too.", "Tip: a door and a clutch together make a fine secret entrance. Rust remembers where the door was."]
+	quest.711B2405428E4DA6.quest_subtitle: "A door that matches the walls."
+	quest.711B2405428E4DA6.title: "Andesite Door"
+	quest.71F8B8C2CDD6B483.quest_desc: ["A big gear and a small gear, touching, trade speed for strength. The First Makers used this to lift stone blocks that no arm could move. It is the first real trick of the Kinetic Age.", "{image:ages:textures/quests/age4/shifting.png width:160 height:80 align:center fit:true}", "Craft a &bLarge Cogwheel&r from a &6Shaft&r and &e2&r &6planks&r, or from a &6Cogwheel&r and one plank. Place it so its teeth touch a small &bCogwheel&r on the same turning line. The small one spins fast. The large one spins slow but pushes hard. The advancement wants them linked and turning.", "Tip: speed times strength stays the same. Nothing is free, even for a machine. This closes the first section. Rotation is yours."]
+	quest.71F8B8C2CDD6B483.quest_subtitle: "Big cog strong. Small cog fast."
+	quest.71F8B8C2CDD6B483.title: "Shifting Gears"
+	quest.721D2C26C6690807.quest_desc: ["I cannot see well, but I remember how the First Makers looked at a machine: with goggles. They read speed and strain off the air. A foreman with no goggles guesses, and guesses break gears.", "{image:ages:textures/quests/age4/goggles.png width:160 height:80 align:center fit:true}", "Craft &bEngineer's Goggles&r from a &6Gold Sheet&r, &e2&r &6glass&r and a &6string&r. Craft a &bWrench&r too. Wear the goggles and hold the wrench. The advancement lights up when you carry both.", "Tip: with goggles on, look at any machine to see its speed and its stress. Gold sheets come from the press."]
+	quest.721D2C26C6690807.quest_subtitle: "See the speed. Feel the strain."
+	quest.721D2C26C6690807.title: "Goggles & Wrench"
+	quest.7272588CC3664969.quest_desc: ["A &bPortable Storage Interface&r lets a moving build pass items to a chest as it goes by. The First Makers' field carts used it to drop grain at the barn without ever stopping.", "{image:ages:textures/quests/age4/psi.png width:160 height:80 align:center fit:true}", "Craft one from a &6Casing&r and a &bChute&r. Place one on your moving build and another beside the barn's chest, so they meet. As the build passes, items move from one to the other. The advancement wants items taken or put into a moving build.", "Tip: both interfaces must line up with each other. Test it slowly."]
+	quest.7272588CC3664969.quest_subtitle: "A moving field that hands over its harvest."
+	quest.7272588CC3664969.title: "Drive-by Exchange"
+	quest.72C6F5451072590B.quest_desc: ["Put a press above a basin and something odd happens: the press squeezes what is in the basin into something smaller and denser. The First Makers used it to turn scrap into blocks.", "Place a &bBasin&r under a &bMechanical Press&r. Drop &e9&r &6Snow Blocks&r in the basin and run the press. Out comes &6Ice&r. Check the recipe viewer for more.", "Tip: the basin takes a hopper or a chute underneath, so the finished item can drop out by itself."]
+	quest.72C6F5451072590B.quest_subtitle: "Many go in. Fewer come out, but heavier."
+	quest.72C6F5451072590B.title: "Compacting"
+	quest.73BA1B04D66CC196.quest_desc: ["A tank keeps liquid until you need it. Stack them and they merge into one bigger tank.", "{image:ages:textures/quests/age5/tank.png width:160 height:80 align:center fit:true}", "Place a &6Copper Sheet&r above a &6Wooden Barrel&r above another &6Copper Sheet&r in the crafting grid. Connect a pipe to it. Stack more tanks beside or above to widen it.", "Tip: a tank is the base of a boiler. Next, a tank of water over a fire."]
+	quest.73BA1B04D66CC196.quest_subtitle: "A cellar for liquids."
+	quest.73BA1B04D66CC196.title: "Fluid Tank"
 	quest.74C773B5C37EA8F2.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.74C773B5C37EA8F2.title: "Stuffed Potato"
 	quest.7573161DD346AAFC.quest_desc: ["Set a waypoint at your base (&eB&r). Check it off when you have."]
 	quest.7573161DD346AAFC.title: "Home Waypoint"
+	quest.759ED84B11092479.quest_desc: ["A &bMechanical Drill&r bites into any block it faces, as long as it is turning. On a moving build, it digs a tunnel without a pick in sight.", "Craft one from a &6Casing&r, &e3&r &6Andesite Alloy&r and an &6Iron Ingot&r. Place it facing a wall of stone, feed it rotation, and watch the blocks break. It drops each block as an item.", "Tip: the drill hurts creatures that stand in front of it. Keep your own legs clear."]
+	quest.759ED84B11092479.quest_subtitle: "A tunneller that talks only in turns."
+	quest.759ED84B11092479.title: "Mechanical Drill"
 	quest.75E1ABAF6226A685.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.75E1ABAF6226A685.title: "Chicken Soup"
-	quest.76016D8C7E4E16A2.quest_desc: ["Mixes things in a basin below it."]
+	quest.76016D8C7E4E16A2.quest_desc: ["*whirr* The mixer was the First Makers' great discovery after the wheel. It combines things that no hand could mix. Alloy, dough, even stranger stuff came out of it.", "{image:ages:textures/quests/age4/mixer.png width:160 height:80 align:center fit:true}", "Craft a &bMechanical Mixer&r from a &6Cogwheel&r on top of a &6Casing&r on top of a &6Whisk&r. The whisk needs &6Iron Sheets&r and alloy. Place a &bBasin&r (five alloy in a U shape) underneath. Feed the mixer rotation, then put &6Andesite&r and &6Iron Nuggets&r in the basin. Out comes alloy.", "Tip: you can now make alloy without the crafting grid. This closes the machines section."]
+	quest.76016D8C7E4E16A2.quest_subtitle: "Two things in. One new thing out."
 	quest.76016D8C7E4E16A2.title: "Mechanical Mixer"
 	quest.7646B5423F339AD8.quest_desc: ["Any log works for real, but this quest wants &eOak&r. Hold left-click on a tree trunk."]
 	quest.7646B5423F339AD8.title: "Punch a Tree"
 	quest.76717FB083F050C7.quest_desc: ["Pick up lava in a bucket. Carefully."]
 	quest.76717FB083F050C7.title: "Hot Tub"
+	quest.76AFFFDF5D2D9DF7.quest_desc: ["A transmitter is the little radio inside every stock link, the first part of a network of shops and storehouses.", "Press &6Copper Ingots&r into sheets first. Then place a &6Lightning Rod&r at the top middle, &e3&r &6Copper Sheets&r in the middle row and &e1&r &6Redstone Dust&r at the bottom middle. You get a &6Transmitter&r.", "Tip: you need a lightning rod. It is made of copper."]
+	quest.76AFFFDF5D2D9DF7.quest_subtitle: "A voice that crosses the room."
+	quest.76AFFFDF5D2D9DF7.title: "Transmitter"
 	quest.776199161BB1945F.quest_desc: ["Cook it (or find it). Collect them all."]
 	quest.776199161BB1945F.title: "Noodle Soup"
 	quest.786675CE7781EE03.quest_desc: ["&eMerge:&r the Maker and the Hearth meet. Cook beef stew and earn your first &bBackpack&r!"]
 	quest.786675CE7781EE03.title: "Hot Meal"
 	quest.793BB15FDAF9AA28.quest_desc: ["Tame a wolf or a cat."]
 	quest.793BB15FDAF9AA28.title: "Best Friend"
+	quest.7973C1196D76B236.quest_desc: ["Some halls in the Nether belong to the piglins, who love gold more than anything. A bastion is a heap of blackstone with treasure inside and guards outside.", "Walk into one and look around. Wear one piece of gold armour and most piglins will leave you alone, though brutes still attack.", "Tip: the big chests hold gold and tools. Bring a stack of blocks for emergency walls."]
+	quest.7973C1196D76B236.quest_subtitle: "A stone hall for the hardy."
+	quest.7973C1196D76B236.title: "Bastion Remnant"
 	quest.79E03438DAB89B06.quest_desc: ["The furnace needs your &dSeal of Stone&r in the crafting grid. It stays in the grid; you keep it."]
 	quest.79E03438DAB89B06.title: "Furnace"
+	quest.7A8623EC8C0F9395.quest_desc: ["Brass bends in the press the way iron does. A flat sheet is the starting point for hands, arms and funnels, and I have many things in mind to build with it.", "Put a &6Brass Ingot&r on a &bDepot&r or belt under your &bMechanical Press&r, as you did for iron. Out comes one &6Brass Sheet&r. Make a stack, since the next steps use plenty.", "Tip: the press does one ingot per stroke, so a belt of ingots keeps it busy. Next, we shape sheets into a hand."]
+	quest.7A8623EC8C0F9395.quest_subtitle: "Flat brass, ready for work."
+	quest.7A8623EC8C0F9395.title: "Brass Sheet"
 	quest.7D0BC39519E50BC5.quest_desc: ["&6Gate:&r you have tools, food and a home. The &eBronze Age&r awaits.\\n\\nThe &dSeal of Bronze&r lets you mix Bronze Blend."]
 	quest.7D0BC39519E50BC5.quest_subtitle: "Age Gate"
 	quest.7D0BC39519E50BC5.title: "Master of Stone"
+	quest.7D79463C791D4BD9.quest_desc: ["The First Makers liked to set a speed exactly, to the number. This block lets you do it, and it is the neatest tool in the Brass Age.", "Craft a &bRotation Speed Controller&r from a &6Precision Mechanism&r above a &bBrass Casing&r. Turn it through its shaft and put a &6Large Cogwheel&r on top of it. Set the speed on its side panel. The large cogwheel turns at exactly that speed.", "Tip: scroll on the side panel to change the number."]
+	quest.7D79463C791D4BD9.quest_subtitle: "A dial for the speed of a shaft."
+	quest.7D79463C791D4BD9.title: "Rotation Speed Controller"
+	quest.7DA25D9472FA304F.quest_desc: ["The First Makers did not carry things. They let the belt carry them. A belt links two shafts and moves anything set on it, which is how a workshop becomes a factory.", "{image:ages:textures/quests/age4/belt.png width:160 height:80 align:center fit:true}", "Use &e6&r &6Dried Kelp&r to craft &bBelt Connectors&r. Hold one, right-click a &bShaft&r, then right-click another shaft some blocks away. The belt appears between them. Feed one shaft rotation and the belt carries items along.", "Tip: a belt runs flat, up a slope, or straight up. Funnels let you put items on it."]
+	quest.7DA25D9472FA304F.quest_subtitle: "Things travel, and the belt does the walking."
+	quest.7DA25D9472FA304F.title: "Belts"
+	quest.7F0FB64E3E439240.quest_desc: ["Put water in front of a fan and the air carries a mist. Items blown through the mist are washed, and some turn into new things. Wool loses its dye, and flour becomes dough.", "{image:ages:textures/quests/age4/fanwash.png width:160 height:80 align:center fit:true}", "Place a fan so it blows through &6water&r, then drop an item into the stream. Dough, for one, comes from &6Wheat Flour&r washed this way. Check the recipe viewer for the full list in your pack.", "Tip: the items travel along the air, so catch them in a basin or on a belt at the end."]
+	quest.7F0FB64E3E439240.quest_subtitle: "Water in front of the fan washes the world."
+	quest.7F0FB64E3E439240.title: "Processing by Particle"
 	reward_table.2828F94F33A092AF.title: "Epic Loot Bag"
 	reward_table.4D21E7414940E717.title: "Rare Loot Bag"
 	reward_table.7993104BCF29421E.title: "Common Loot Bag"

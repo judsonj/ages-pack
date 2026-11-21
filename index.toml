@@ -18,7 +18,7 @@ hash = "c9942d5204013cb26c40e08bcfea51abafb86c67d7443637a05a186d336e0b92"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/age2.snbt"
-hash = "13fc0bea8f431d81fc6d599498de9072be99b8d7560929d38d1741282101fcee"
+hash = "69b41ee3baf9a8a74b68d42ef38158a9f02feebbcfc0585c1a897064c8328427"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/age3.snbt"
@@ -26,11 +26,11 @@ hash = "874f053124675ac700f66af91a7a9696151b8f7aca6599845842cd41f49a934b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/age4.snbt"
-hash = "c82e3f8676315fafd8820e1ce1b0f0af097770e484eec3e7ea5070427890e4d6"
+hash = "8493f62cf01912be5861db845a616c53d5a7f1d719d6389fa3a04f6119679662"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/age5.snbt"
-hash = "9eaa9242638ee07d9597ba01903b06af606381d1bf5534b12c883ed1d3b46349"
+hash = "61f12971b1f011f32d1abb3baaa4c59e561de967faf9ec34a006722a3f4f89e4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/age6.snbt"
@@ -54,7 +54,7 @@ hash = "36056fc83174964d5db0f61b1d8c5ce373c8ba5cec24c02bdea4dd5b0a6517ad"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "c9bf7d5b17926ac935e28f992792988e9205ca6caeaa6d76304bfb5cae5b22c2"
+hash = "1f1498ce383fac93295b9e163b3f17233cfe0887cbba31a0cbe586ee74f2c68d"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/common.snbt"
@@ -309,8 +309,16 @@ file = "kubejs/server_scripts/creeper_no_grief.js"
 hash = "952004397ecc6231801ef6a044862ff6aa571371b98f9c70dd5ef887ee00af0f"
 
 [[files]]
+file = "kubejs/server_scripts/fall_kill_xp.js"
+hash = "c53d197c4145a5cab6b1f453e652096cd692dcdcccd488d81cc59f29bb02bae6"
+
+[[files]]
 file = "kubejs/server_scripts/world_rules.js"
 hash = "82e40eb5eae723cb191b4bb7660a6e80eb45f2a1f202e880c7801febf96d0d91"
+
+[[files]]
+file = "kubejs/server_scripts/xp_to_belts.js"
+hash = "0a4288c61c674686efcda2a4e1c88d4f833753525b0afc0f131835d5251d30cf"
 
 [[files]]
 file = "kubejs/startup_scripts/bronze_age.js"
@@ -329,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin-neoforge-mc1-21-3-0-7.pw.toml"
 hash = "735afdfd92fe9a370c848f452bb4529c8cc64bd93f8ea6273791c4fb69df48d2"
+metafile = true
+
+[[files]]
+file = "mods/appliedenergistics2-19-2-17.pw.toml"
+hash = "fd3a9f5ff0d59b4b2cfe1b6474990a72bfdd9cdd52b3b43c22b0f5b762a96647"
 metafile = true
 
 [[files]]
@@ -387,6 +400,11 @@ hash = "9e0c318a2a8918fd947a46a677d1994d62b6eca7455de08539e9742c620874eb"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack-forge-5-2-1.pw.toml"
+hash = "dec79eb4013672d938e51f76ecb5d69b99e1d276cd65db2f403332db009a2a24"
+metafile = true
+
+[[files]]
 file = "mods/createaddition-1-5-9.pw.toml"
 hash = "1e3346727a8e2ff18d5053324736d3b0baeccd1f67ef652b2f6b1eecdf4c0187"
 metafile = true
@@ -394,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/createdeco-2-1-3.pw.toml"
 hash = "ea74742af75d6360898a997e93c160dc414e76c93b253110614bc30b341b5cfe"
+metafile = true
+
+[[files]]
+file = "mods/cucumber-1-21-1-8-0-16.pw.toml"
+hash = "5e6dc839b361a5e4192d9258be64710217c00f09a34132d18a90581201eeae7a"
 metafile = true
 
 [[files]]
@@ -472,6 +495,11 @@ hash = "7093069540a3d85b1c15ee350c7624c1f33d16aca91086318d6022b48d27a842"
 metafile = true
 
 [[files]]
+file = "mods/guideme-21-1-22.pw.toml"
+hash = "18ae93e6be5eea771364b26209c643e6581c7540e9d6dc08a0423aacefbc5a83"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted-neoforge-1-21-1-4-0-3.pw.toml"
 hash = "2fdaa71e34aa097f73c1733d5cd42618078c209bc17a6303171cf19060052fe6"
 metafile = true
@@ -484,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/inventoryessentials-neoforge-1-21-1-21-1-20.pw.toml"
 hash = "9a8ca92b24f19f48cec4f8bb1d27c72c63e303ac9c2e834ce8782f57142e6fd9"
+metafile = true
+
+[[files]]
+file = "mods/ironjetpacks-1-21-1-8-0-11.pw.toml"
+hash = "d8ccbd4a366187ac3bc52d031fcf367c21e1e01485f8b3a252556db0c9fafd3c"
 metafile = true
 
 [[files]]
